@@ -1,0 +1,431 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Droid+Sans');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400i');
+
+@charset "UTF-8";
+/* CSS Document */
+
+*,
+*:after,
+*::before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+	background-color: black;
+	color: white;
+	/* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+/*************************/
+/*     Text Styles
+/*************************/
+
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 55px;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+	h1 {
+		font-family: 'Abril Fatface', cursive;
+		font-size: 70px;
+	}
+
+}
+
+h3 {
+	    font-family: 'Droid Sans', sans-serif;
+    color: #73ffd2;
+	font-size: 18px;
+}
+
+h2 {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 25px;
+	color: #73f3ff;
+}
+
+
+h5 {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 25px;
+	line-height: 35px;
+	color: #373737;
+}
+
+a {
+	color: #ff259e;
+}
+
+a:hover {
+	color: #792583;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+quote {
+	    font-family: 'Libre Baskerville', serif;
+    font-size: 33px;
+    color: #73f3ff;
+}
+
+p {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 20px;
+    line-height: 34px;
+    padding: 26px 0 17px;
+}
+
+p:first-of-type {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 20px;
+    line-height: 34px;
+    padding: 29px 0 31px;	
+}
+
+p h1 {
+	color: #f15c7c;
+}
+
+
+hr {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    border: 0;
+    border-top: 1px double rgba(255,255,255, .3);
+}
+
+.title h5 {
+    padding-top: 30px;
+}
+
+.title h5 a {
+	text-decoration: none;
+	color: #373737;
+}
+
+.title {
+	padding: 25px 0 0 0;
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+	.title {
+		padding: 110px 0 0 0;
+	}
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+	.title {
+		padding: 150px 0 0 0;
+	}
+
+}
+
+
+.nav-top-spacing {
+	padding-top: 20px
+}
+
+.bottom-spacing {
+	padding-bottom: 40px;
+}
+
+
+.page-content {
+	padding-top: 130px;
+}
+
+.page-content h1 {
+	color: #792583;
+	font-size: 41px;
+}
+
+
+.day-number {
+  width: 110px;
+  height: 110px;
+  border: solid 1px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.day-number h1 {
+	color: black;
+	font-size: 57px;
+}
+
+.number-position {
+    top: -101px;
+    z-index: 0;
+    position: relative;
+}
+
+.name-top-spacting {
+	top: -75px;
+}
+
+
+.nav-bottom-spacing {
+	padding-bottom: 130px;
+}
+
+.breadcrumb{
+	background-color: black;
+}
+
+.breadcrum .movement {
+	margin: 10 0;
+}
+
+.breadcrumb > li + li:before {
+    padding: 0 5px;
+    color: black;
+    content: "/\00a0";
+}
+
+.page-numbers {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 50px;
+}
+
+.space-issues {
+	padding-left: 35px;
+}
+
+/* Small devices (landscape phones, 400px and up)*/
+@media (min-width: 320px) {
+
+	.space-issues {
+		padding-left: 16px;
+	}
+}
+
+
+/* Small devices (landscape phones, 360px and up)*/
+@media (min-width: 360px) {
+
+	.space-issues {
+		padding-left: 28px;
+	}
+}
+
+/* Small devices (landscape phones, 400px and up)*/
+@media (min-width: 400px) {
+
+	.space-issues {
+		padding-left: 56px;
+	}
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+	.space-issues {
+		padding-left: 56px;
+	}
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+	.space-issues {
+		padding-left: 215px;
+	}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 1024px) {
+
+	.space-issues {
+		padding-left: 0px;
+	}
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 1366px) {
+
+	.space-issues {
+		padding-left: 38px;
+	}
+}
+
+
+.footer hr {
+	margin-top: 1rem;
+	margin-bottom: 0rem;
+}
+
+.footer p {
+	color: #373737;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
+/*.color {
+	background: black;
+	padding-bottom: 120px;
+}*/
+
+section::before,
+section::after {
+	position: absolute;
+	content: '';
+	pointer-events: none;
+}
+
+
+/*section {
+	position: relative;
+    padding: 10em 10%;
+    text-align: center;
+}*/
+
+/* Double Diagonal line */
+
+.ss-style-doublediagonal {
+	z-index: 1;
+	padding-top: 10em;
+	background: #262626;
+}
+
+.ss-style-doublediagonal::before,
+.ss-style-doublediagonal::after {
+	top: 0;
+	left: -25%;
+	z-index: -1;
+	width: 150%;
+	height: 75%;
+	background: inherit;
+	-webkit-transform: rotate(-2deg);
+	transform: rotate(-2deg);
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
+
+.ss-style-doublediagonal::before {
+	height: 50%;
+	background: black;
+	-webkit-transform: rotate(-3deg);
+	transform: rotate(-3deg);
+	-webkit-transform-origin: 3% 0;
+	transform-origin: 3% 0;
+}
+
+.bottom-spacing {
+	padding-bottom: 140px;
+}
+
+.glyphicon{
+	font-size: 53px;
+    padding: 0 15px 0 15px;
+}
+
+.spacing-top {
+	padding-top: 30px;
+}
+
+
+.correction-space {
+	padding: 0 0 0 75px;
+}
+
+
+/* Small devices (landscape phones, 400px and up)*/
+@media (min-width: 320px) {
+
+	.correction-space {
+		padding: 0 0 0 58px;
+	}
+}
+
+
+/* Small devices (landscape phones, 360px and up)*/
+@media (min-width: 360px) {
+
+	.correction-space {
+		padding: 0 0 0 73px;
+	}
+}
+
+/* Small devices (landscape phones, 400px and up)*/
+@media (min-width: 400px) {
+
+	.correction-space {
+		padding: 0 0 0 100px;
+	}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	
+	.correction-space {
+		padding: 0 0 0 67px;
+	}
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 1024px) {
+
+	.correction-space {
+		padding: 0 0 0 50px;
+	}
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 1366px) {
+
+	.correction-space {
+		padding: 0 0 0 96px;
+	}
+
+}
+
+	.offrow-pad {
+		padding-left: 310px;
+	}
+
+
+
+
+
+
+
+
+
+
