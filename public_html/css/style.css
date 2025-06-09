@@ -1,6 +1,20 @@
 
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Droid+Sans');
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400i');
+:root {
+  --font-abril: 'Abril Fatface', cursive;
+  --font-droid: 'Droid Sans', sans-serif;
+  --font-libre-baskerville: 'Libre Baskerville', serif;
+  --color-primary-pink: #ff259e;
+  --color-secondary-purple: #792583;
+  --color-accent-cyan: #73f3ff;
+  --color-accent-light-cyan: #73ffd2; /* For h3 */
+  --color-text-light: white;
+  --color-text-dark: black;
+  --color-text-muted: #373737; /* For title h5 */
+  --color-text-blockquote: #73f3ff; /* Current quote color */
+  --color-background-dark: black;
+  --color-background-light: #262626; /* For ss-style-doublediagonal */
+  --color-border-hr: rgba(255,255,255, .3);
+}
 
 @charset "UTF-8";
 /* CSS Document */
@@ -20,8 +34,8 @@ html {
 }
 
 body {
-	background-color: black;
-	color: white;
+	background-color: var(--color-background-dark);
+	color: var(--color-text-light);
 	/* Margin bottom by footer height */
   margin-bottom: 60px;
 }
@@ -31,72 +45,72 @@ body {
 /*************************/
 
 h1 {
-	font-family: 'Abril Fatface', cursive;
-	font-size: 55px;
+	font-family: var(--font-abril);
+	font-size: calc(55 / 16 * 1rem); /* 3.4375rem */
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
 	h1 {
-		font-family: 'Abril Fatface', cursive;
-		font-size: 70px;
+		font-family: var(--font-abril);
+		font-size: calc(70 / 16 * 1rem); /* 4.375rem */
 	}
 
 }
 
 h3 {
-	    font-family: 'Droid Sans', sans-serif;
-    color: #73ffd2;
-	font-size: 18px;
+	font-family: var(--font-droid);
+    color: var(--color-accent-light-cyan);
+	font-size: calc(18 / 16 * 1rem); /* 1.125rem */
 }
 
 h2 {
-	font-family: 'Droid Sans', sans-serif;
-	font-size: 25px;
-	color: #73f3ff;
+	font-family: var(--font-droid);
+	font-size: calc(25 / 16 * 1rem); /* 1.5625rem */
+	color: var(--color-accent-cyan);
 }
 
 
 h5 {
-	font-family: 'Droid Sans', sans-serif;
-	font-size: 25px;
-	line-height: 35px;
-	color: #373737;
+	font-family: var(--font-droid);
+	font-size: calc(25 / 16 * 1rem); /* 1.5625rem */
+	line-height: 1.4; /* 35/25 */
+	color: var(--color-text-muted);
 }
 
 a {
-	color: #ff259e;
+	color: var(--color-primary-pink);
 }
 
 a:hover {
-	color: #792583;
+	color: var(--color-secondary-purple);
 	text-decoration: none;
 	cursor: pointer;
 }
 
-quote {
-	    font-family: 'Libre Baskerville', serif;
-    font-size: 33px;
-    color: #73f3ff;
+blockquote {
+	font-family: var(--font-libre-baskerville);
+    font-size: calc(33 / 16 * 1rem); /* 2.0625rem */
+    color: var(--color-text-blockquote);
 }
 
 p {
-	font-family: 'Droid Sans', sans-serif;
-	font-size: 20px;
-    line-height: 34px;
+	font-family: var(--font-droid);
+	font-size: calc(20 / 16 * 1rem); /* 1.25rem */
+    line-height: 1.7; /* 34/20 */
     padding: 26px 0 17px;
 }
 
 p:first-of-type {
-	font-family: 'Droid Sans', sans-serif;
-	font-size: 20px;
-    line-height: 34px;
+	font-family: var(--font-droid);
+	font-size: calc(20 / 16 * 1rem); /* 1.25rem */
+    line-height: 1.7; /* 34/20 */
     padding: 29px 0 31px;	
 }
 
 p h1 {
-	color: #f15c7c;
+	color: #f15c7c; /* This seems like an override, leaving specific color for now */
 }
 
 
@@ -104,7 +118,7 @@ hr {
     margin-top: 6rem;
     margin-bottom: 6rem;
     border: 0;
-    border-top: 1px double rgba(255,255,255, .3);
+    border-top: 1px double var(--color-border-hr);
 }
 
 .title h5 {
@@ -113,7 +127,7 @@ hr {
 
 .title h5 a {
 	text-decoration: none;
-	color: #373737;
+	color: var(--color-text-muted);
 }
 
 .title {
@@ -153,8 +167,8 @@ hr {
 }
 
 .page-content h1 {
-	color: #792583;
-	font-size: 41px;
+	color: var(--color-secondary-purple);
+	font-size: calc(41 / 16 * 1rem); /* 2.5625rem */
 }
 
 
@@ -163,12 +177,12 @@ hr {
   height: 110px;
   border: solid 1px;
   border-radius: 50%;
-  background-color: white;
+  background-color: var(--color-text-light);
 }
 
 .day-number h1 {
-	color: black;
-	font-size: 57px;
+	color: var(--color-text-dark);
+	font-size: calc(57 / 16 * 1rem); /* 3.5625rem */
 }
 
 .number-position {
@@ -187,7 +201,7 @@ hr {
 }
 
 .breadcrumb{
-	background-color: black;
+	background-color: var(--color-background-dark);
 }
 
 .breadcrum .movement {
@@ -196,13 +210,13 @@ hr {
 
 .breadcrumb > li + li:before {
     padding: 0 5px;
-    color: black;
+    color: var(--color-text-dark);
     content: "/\00a0";
 }
 
 .page-numbers {
-	font-family: 'Abril Fatface', cursive;
-	font-size: 50px;
+	font-family: var(--font-abril);
+	font-size: calc(50 / 16 * 1rem); /* 3.125rem */
 }
 
 .space-issues {
@@ -276,7 +290,7 @@ hr {
 }
 
 .footer p {
-	color: #373737;
+	color: var(--color-text-muted);
 }
 
 .footer {
@@ -311,7 +325,7 @@ section::after {
 .ss-style-doublediagonal {
 	z-index: 1;
 	padding-top: 10em;
-	background: #262626;
+	background: var(--color-background-light);
 }
 
 .ss-style-doublediagonal::before,
@@ -330,7 +344,7 @@ section::after {
 
 .ss-style-doublediagonal::before {
 	height: 50%;
-	background: black;
+	background: var(--color-background-dark);
 	-webkit-transform: rotate(-3deg);
 	transform: rotate(-3deg);
 	-webkit-transform-origin: 3% 0;

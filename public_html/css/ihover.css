@@ -1,7 +1,6 @@
 .ih-item {
   position: relative;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item,
@@ -41,7 +40,6 @@
   height: 100%;
   border-radius: 50%;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle .img img {
@@ -85,7 +83,6 @@
   border-bottom-color: #1ad280;
   border-radius: 50%;
   -webkit-transition: all 0.8s ease-in-out;
-  -moz-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
 }
 .ih-item.circle.effect1 .img {
@@ -113,7 +110,6 @@
   background: rgba(0, 0, 0, 0.6);
   opacity: 0;
   -webkit-transition: all 0.8s ease-in-out;
-  -moz-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
 }
 .ih-item.circle.effect1 .info h3 {
@@ -154,7 +150,6 @@
   -o-transform: scale(1);
   transform: scale(1);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect2.colored .info {
@@ -167,7 +162,6 @@
   opacity: 0;
   pointer-events: none;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect2 .info h3 {
@@ -285,7 +279,6 @@
 .ih-item.circle.effect3 .img {
   z-index: 11;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect3.colored .info {
@@ -296,7 +289,6 @@
   opacity: 0;
   pointer-events: none;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect3 .info h3 {
@@ -442,7 +434,6 @@
 .ih-item.circle.effect4 .img {
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 .ih-item.circle.effect4.colored .info {
@@ -454,7 +445,6 @@
   visibility: hidden;
   pointer-events: none;
   -webkit-transition: all 0.35s ease;
-  -moz-transition: all 0.35s ease;
   transition: all 0.35s ease;
 }
 .ih-item.circle.effect4 .info h3 {
@@ -476,7 +466,6 @@
   font-size: 12px;
   border-top: 1px solid rgba(255, 255, 255, 0.5);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect4 a:hover .img {
@@ -615,7 +604,6 @@
 }
 .ih-item.circle.effect5 .info {
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
@@ -676,7 +664,6 @@
   -o-transform: scale(1);
   transform: scale(1);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect6.colored .info {
@@ -686,7 +673,6 @@
   background: #333333;
   opacity: 0;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect6 .info h3 {
@@ -764,7 +750,6 @@
   -o-transform: scale(0.5);
   transform: scale(0.5);
   -webkit-transition: all 0.35s ease-in-out 0.2s;
-  -moz-transition: all 0.35s ease-in-out 0.2s;
   transition: all 0.35s ease-in-out 0.2s;
 }
 .ih-item.circle.effect6.scale_down_up a:hover .img {
@@ -792,7 +777,6 @@
   -o-transform: scale(1);
   transform: scale(1);
   -webkit-transition: all 0.35s ease-out;
-  -moz-transition: all 0.35s ease-out;
   transition: all 0.35s ease-out;
 }
 .ih-item.circle.effect7.colored .info {
@@ -804,7 +788,6 @@
   visibility: hidden;
   pointer-events: none;
   -webkit-transition: all 0.35s ease 0.2s;
-  -moz-transition: all 0.35s ease 0.2s;
   transition: all 0.35s ease 0.2s;
 }
 .ih-item.circle.effect7 .info h3 {
@@ -909,13 +892,11 @@
   -o-transform: scale(1);
   transform: scale(1);
   -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 .ih-item.circle.effect8 .img-container .img {
   opacity: 1;
   -webkit-transition: all 0.3s ease-in-out 0.3s;
-  -moz-transition: all 0.3s ease-in-out 0.3s;
   transition: all 0.3s ease-in-out 0.3s;
 }
 .ih-item.circle.effect8 .info-container {
@@ -929,7 +910,6 @@
   opacity: 0;
   pointer-events: none;
   -webkit-transition: all 0.3s ease-in-out 0.3s;
-  -moz-transition: all 0.3s ease-in-out 0.3s;
   transition: all 0.3s ease-in-out 0.3s;
 }
 .ih-item.circle.effect8 .info {
@@ -943,7 +923,6 @@
   -o-transform: scale(0.5);
   transform: scale(0.5);
   -webkit-transition: all 0.35s ease-in-out 0.6s;
-  -moz-transition: all 0.35s ease-in-out 0.6s;
   transition: all 0.35s ease-in-out 0.6s;
 }
 .ih-item.circle.effect8 .info h3 {
@@ -1106,7 +1085,6 @@
 .ih-item.circle.effect9 .img {
   opacity: 1;
   -webkit-transition: all 0.35s ease-out;
-  -moz-transition: all 0.35s ease-out;
   transition: all 0.35s ease-out;
 }
 .ih-item.circle.effect9.colored .info {
@@ -1123,7 +1101,6 @@
   -o-transform: scale(0.5);
   transform: scale(0.5);
   -webkit-transition: all 0.35s ease 0.2s;
-  -moz-transition: all 0.35s ease 0.2s;
   transition: all 0.35s ease 0.2s;
 }
 .ih-item.circle.effect9 .info h3 {
@@ -1232,7 +1209,6 @@
   -o-transform: scale(1);
   transform: scale(1);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect10.colored .info {
@@ -1247,7 +1223,6 @@
   -o-transform: scale(0);
   transform: scale(0);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect10 .info h3 {
@@ -1321,7 +1296,6 @@
   -o-transform-origin: 50% 50%;
   transform-origin: 50% 50%;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect11.colored .info {
@@ -1332,7 +1306,6 @@
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.35s ease 0.35s;
-  -moz-transition: all 0.35s ease 0.35s;
   transition: all 0.35s ease 0.35s;
 }
 .ih-item.circle.effect11 .info h3 {
@@ -1481,7 +1454,6 @@
 .ih-item.circle.effect12 .img {
   opacity: 1;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect12.colored .info {
@@ -1498,7 +1470,6 @@
   -o-transform: scale(0.5);
   transform: scale(0.5);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect12 .info h3 {
@@ -1557,7 +1528,6 @@
   -o-transform: translateX(0) rotate(0);
   transform: translateX(0) rotate(0);
   -webkit-transition-delay: 0.4s;
-  -moz-transition-delay: 0.4s;
   transition-delay: 0.4s;
 }
 
@@ -1589,7 +1559,6 @@
   -o-transform: translateX(0) rotate(0);
   transform: translateX(0) rotate(0);
   -webkit-transition-delay: 0.4s;
-  -moz-transition-delay: 0.4s;
   transition-delay: 0.4s;
 }
 
@@ -1621,7 +1590,6 @@
   -o-transform: translateY(0) rotate(0);
   transform: translateY(0) rotate(0);
   -webkit-transition-delay: 0.4s;
-  -moz-transition-delay: 0.4s;
   transition-delay: 0.4s;
 }
 
@@ -1653,7 +1621,6 @@
   -o-transform: translateY(0) rotate(0);
   transform: translateY(0) rotate(0);
   -webkit-transition-delay: 0.4s;
-  -moz-transition-delay: 0.4s;
   transition-delay: 0.4s;
 }
 
@@ -1667,7 +1634,6 @@
   opacity: 0;
   pointer-events: none;
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect13 .info h3 {
@@ -1682,7 +1648,6 @@
   height: 110px;
   text-shadow: 0 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.3);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect13 .info p {
@@ -1694,7 +1659,6 @@
   font-size: 12px;
   border-top: 1px solid rgba(255, 255, 255, 0.5);
   -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect13 a:hover .info {
@@ -1803,7 +1767,6 @@
   visibility: visible;
   opacity: 1;
   -webkit-transition: all 0.4s ease-out;
-  -moz-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
 }
 .ih-item.circle.effect14.colored .info {
@@ -1814,7 +1777,6 @@
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.35s ease-in-out 0.3s;
-  -moz-transition: all 0.35s ease-in-out 0.3s;
   transition: all 0.35s ease-in-out 0.3s;
 }
 .ih-item.circle.effect14 .info h3 {
@@ -2398,7 +2360,6 @@
   height: 100%;
   background: #333333;
   -webkit-transition: all 0.35s linear;
-  -moz-transition: all 0.35s linear;
   transition: all 0.35s linear;
   -webkit-transform-origin: 50% 0%;
   -moz-transform-origin: 50% 0%;
