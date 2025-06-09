@@ -8,4 +8,4 @@ To view the website, open the `public_html/index.html` file in a web browser.
 
 ## Credits
 
-This project was created by Timothy Jack Rabs.
+This project was created by Timothy Hykes.
