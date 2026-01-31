@@ -1,0 +1,8 @@
+title: Home
+fields:
+  intro_title:
+    label: Intro Title
+    type: text
+  intro_text:
+    label: Intro Text
+    type: textarea

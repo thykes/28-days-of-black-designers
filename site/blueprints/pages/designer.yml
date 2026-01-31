@@ -1,0 +1,56 @@
+title: Designer
+options:
+  status: true
+fields:
+  day:
+    label: Day
+    type: number
+    width: 1/4
+  role:
+    label: Role
+    type: text
+    width: 3/4
+  location:
+    label: Location
+    type: text
+    width: 1/2
+  website:
+    label: Website URL
+    type: url
+    width: 1/2
+  linkedin:
+    label: LinkedIn URL
+    type: url
+    width: 1/2
+  twitter:
+    label: Twitter URL
+    type: url
+    width: 1/2
+  tags:
+    label: Area of Expertise
+    type: tags
+  intro:
+    label: Intro Text
+    type: textarea
+  text:
+    label: Main Story
+    type: textarea
+    size: large
+  interview:
+    label: Interview
+    type: structure
+    fields:
+      question:
+        type: text
+      answer:
+        type: textarea
+  cover:
+    type: files
+    max: 1
+    label: Cover Image
+  selected_works:
+    label: Selected Works
+    type: files
+    layout: cards
+    image:
+      cover: true

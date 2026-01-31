@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>John Doe — 28 Days of Black Designers</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&amp;family=Playfair+Display:ital,wght@0,700;1,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "page-bg": "#0b032d",
+                        "heading-peach": "#FFB997",
+                        "accent-pink": "#F67E7D",
+                        "sub-purple": "#843b62",
+                        "dark-purple": "#621940",
+                        "body-text": "#F67E7D",
+                    },
+                    fontFamily: {
+                        "sans": ["Inter", "sans-serif"],
+                        "serif": ["Georgia", "serif"],
+                        "display": ["Inter", "sans-serif"],
+                    },
+                    letterSpacing: {
+                        "widest-extra": "0.3em",
+                    },
+                    borderRadius: {
+                        "custom": "8px",
+                    }
+                },
+            },
+        }
+    </script>
+<style type="text/tailwindcss">
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+        }
+        body {
+            @apply antialiased bg-page-bg text-body-text selection:bg-accent-pink selection:text-page-bg;
+        }
+        .prose p {
+            @apply mb-8 leading-[1.8] text-lg font-serif;
+            color: rgba(246, 126, 125, 0.9);
+        }
+        .prose h4 {
+            @apply font-sans font-bold uppercase tracking-widest text-sm mb-4 text-sub-purple;
+        }
+        .header-nav-link {
+            @apply text-[11px] uppercase tracking-[0.2em] font-bold text-heading-peach hover:opacity-70 transition-opacity;
+        }
+        .social-button {
+            @apply flex items-center justify-center w-10 h-10 rounded-full border border-accent-pink/30 text-accent-pink hover:bg-accent-pink hover:text-page-bg transition-all duration-300;
+        }
+        .expertise-tag {
+            @apply px-5 py-2 rounded-full bg-dark-purple border border-sub-purple text-heading-peach text-[11px] font-bold uppercase tracking-widest transition-all cursor-default hover:bg-sub-purple;
+        }
+    </style>
+</head>
+<body class="font-sans">
+<header class="sticky top-0 z-50 bg-page-bg border-b border-white/10 px-6 py-6">
+<div class="max-w-[1400px] mx-auto flex items-center justify-between">
+<div class="flex items-center gap-16">
+<a class="text-sm font-black tracking-tighter uppercase flex items-center gap-2 text-heading-peach" href="#">
+<span class="w-2 h-2 bg-accent-pink rounded-full"></span>
+                    28 Days of Black Designers
+                </a>
+<nav class="hidden lg:flex items-center gap-10">
+<a class="header-nav-link" href="#">Archive</a>
+<a class="header-nav-link" href="#">About</a>
+<a class="header-nav-link" href="#">Submit</a>
+</nav>
+</div>
+<div class="flex items-center gap-8 text-heading-peach">
+<button class="hover:opacity-70 transition-opacity">
+<span class="material-symbols-outlined !text-[20px]">search</span>
+</button>
+<button class="hover:opacity-70 transition-opacity">
+<span class="material-symbols-outlined !text-[20px]">menu</span>
+</button>
+</div>
+</div>
+</header>
+<main class="max-w-[1300px] mx-auto py-24 px-6 lg:px-12">
+<section class="mb-32">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-16 items-start">
+<div class="lg:col-span-7">
+<div class="mb-10">
+<span class="inline-block py-1 px-3 bg-dark-purple text-heading-peach text-[10px] font-black uppercase tracking-widest rounded-sm mb-6">Day 14 • Feb 2024</span>
+<h1 class="font-display font-black text-7xl md:text-8xl lg:text-9xl leading-[0.9] tracking-tighter mb-10 text-heading-peach">
+                            John<br/>Doe
+                        </h1>
+</div>
+<div class="max-w-xl">
+<p class="text-xl md:text-2xl font-medium leading-relaxed opacity-80">
+                            Executive Director of the New York Public Design Commission
+                        </p>
+</div>
+<div class="flex gap-4 mt-12 items-center">
+<a class="social-button" href="#" title="Website">
+<span class="material-symbols-outlined !text-[18px]">language</span>
+</a>
+<a class="social-button" href="#" title="LinkedIn">
+<span class="material-symbols-outlined !text-[18px]">link</span>
+</a>
+<a class="social-button" href="#" title="Twitter">
+<span class="material-symbols-outlined !text-[18px]">share</span>
+</a>
+</div>
+</div>
+<div class="lg:col-span-5 relative">
+<div class="aspect-[4/5] bg-dark-purple/30 overflow-hidden rounded-custom shadow-2xl transition-all duration-700">
+<div class="w-full h-full bg-cover bg-center grayscale hover:grayscale-0 transition-all duration-700" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuC6OGNY2-epqnSY5mQc8dCTBdwoV4NKDG22E3eD336lhvSjnuU1dGNXCAu_uiaWhwza84cAO25gDuFyz5RzxXFot169GqrGMJ_cAJpD6L7UwzHr_EbkfXpBrSjU2R3x9IMU4ATaF3FuiGUvOTI5JPVhTv_FqwSG9R1J8t7n2nvieF8hRMUKulu6Mygz7YZgT19d-msU3WMHgI8h-afMLPKZIbHI6tfyfk-ZcYla0LKAsXc1XiKQ43x94l8CkFXAYrXtquwWRu4klg");'></div>
+</div>
+<div class="absolute -bottom-6 -left-6 hidden lg:block bg-dark-purple p-6 border border-sub-purple rounded-custom shadow-lg max-w-[240px]">
+<p class="text-[10px] uppercase tracking-widest font-black mb-1 text-heading-peach/40">Current Location</p>
+<p class="text-sm font-bold text-heading-peach">Brooklyn, New York</p>
+</div>
+</div>
+</div>
+</section>
+<section class="mb-32">
+<div class="flex flex-col md:flex-row md:items-center gap-8 pb-12 border-b border-white/10">
+<h3 class="text-[10px] font-black uppercase tracking-widest-extra text-sub-purple min-w-[150px]">Area of Expertise</h3>
+<div class="flex flex-wrap gap-2">
+<span class="expertise-tag">Urban Design</span>
+<span class="expertise-tag">Public Policy</span>
+<span class="expertise-tag">Equity Advocacy</span>
+<span class="expertise-tag">Civic Infrastructure</span>
+</div>
+</div>
+</section>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-20">
+<div class="lg:col-span-7">
+<section class="mb-24">
+<div class="prose max-w-none">
+<p class="font-serif text-3xl leading-[1.6] text-accent-pink mb-16 first-letter:text-8xl first-letter:font-black first-letter:font-sans first-letter:float-left first-letter:mr-4 first-letter:leading-none first-letter:text-heading-peach">
+                            John Doe is a visionary leader in urban design with over two decades of experience shaping public spaces in New York City. His work focuses on intersectional equity and sustainable infrastructure, ensuring that the city's architectural evolution serves all its citizens.
+                        </p>
+<div class="font-serif text-xl leading-[1.9] space-y-8 opacity-90">
+<p>
+                                As the Executive Director, he oversees the design review process for all permanent structures, landscapes, and artworks on City-owned property. His tenure has been marked by a radical commitment to community-driven design and the preservation of cultural heritage in rapidly developing neighborhoods.
+                            </p>
+</div>
+</div>
+</section>
+<section class="space-y-24 border-t border-white/10 pt-24">
+<div class="flex items-center gap-4 mb-16">
+<div class="h-px w-8 bg-sub-purple"></div>
+<h2 class="text-[10px] font-black uppercase tracking-[0.4em] text-sub-purple">The Interview</h2>
+</div>
+<div class="space-y-20">
+<article>
+<h4 class="font-sans text-xs font-black uppercase tracking-widest mb-6 text-sub-purple">What sparked your interest in urban design?</h4>
+<div class="font-serif text-3xl md:text-4xl italic leading-snug text-heading-peach max-w-2xl">
+                                "Growing up in Brooklyn, I saw how the physical environment dictated the opportunities available to people. I realized that the way a park is built or how a transit line is drawn isn't just a technical decision—it's a moral one."
+                            </div>
+</article>
+<article>
+<h4 class="font-sans text-xs font-black uppercase tracking-widest mb-6 text-sub-purple">How do you define 'equity' in public design?</h4>
+<div class="font-serif text-xl md:text-2xl leading-relaxed opacity-90 max-w-2xl">
+                                It means that quality design is not a luxury, but a right. It's about dismantling the invisible barriers that keep certain communities from feeling welcome in public spaces. We ask: Who is this for? Who was left out of the conversation? And how do we fix it?
+                            </div>
+</article>
+</div>
+</section>
+</div>
+<aside class="lg:col-span-4 lg:col-start-9 space-y-24">
+<section>
+<h3 class="text-[10px] font-black uppercase tracking-widest mb-10 text-sub-purple">Selected Works</h3>
+<div class="space-y-16">
+<div class="group cursor-pointer">
+<div class="aspect-[4/3] bg-dark-purple/20 overflow-hidden mb-6 rounded-custom transition-all duration-500">
+<div class="w-full h-full bg-cover bg-center scale-100 group-hover:scale-105 grayscale group-hover:grayscale-0 transition-transform duration-700" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDGuLCxblAmbljGNK56G2UgRX6ITqn2uhQ9B1dU-9bBnDXs7MgbtG93EkfX90VR65Gp5yr2kpVFoPpLK3T6Fel_7yMZgaKQHLOr84gptf0WbAP6EBEWlhwdWX2ihK1l_pwJThYGsKR-uCE0WxGl23ghe_3HWaV_riV-QTSpFZy4Dk1SdrurZJi6vgAYD-6MBw8ZtrNLwuz97GYRjGXoeigJ06XsqBQqj8xnrtYiCBYbkhVZtk_NKrUqD4EZeavxm15kntc6Ks2q-g');"></div>
+</div>
+<p class="text-[11px] uppercase tracking-widest font-black text-accent-pink group-hover:text-heading-peach transition-colors">Harlem Waterfront Revitalization</p>
+</div>
+<div class="group cursor-pointer">
+<div class="aspect-[4/3] bg-dark-purple/20 overflow-hidden mb-6 rounded-custom transition-all duration-500">
+<div class="w-full h-full bg-cover bg-center scale-100 group-hover:scale-105 grayscale group-hover:grayscale-0 transition-transform duration-700" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuA_K0xHA5Ca5rBJ-9OiSQwiJCeyfdSpOwPTCk_N78uVmbe7LosE979GIaqtXKmQc3FbAXTR26ZmraVSSYKszbKqx5LK1DOSNtCMFvM3RkwkYLOxWF8MG3Yzkowc3oOK1uKWBElkI-6QyYB65q5Nx_H5Ri0mOm1AaDdhyaGJrrAG7S2V2zt_oMDq5QoVc0VIFrGgfY5M3GYGjFWloHjz_KtxTa_S37HAnumKX25B3Mscuhqc6Ed1hfRhF7K_Q4C1-AM4Kt3ki3trIg');"></div>
+</div>
+<p class="text-[11px] uppercase tracking-widest font-black text-accent-pink group-hover:text-heading-peach transition-colors">Brooklyn Community Hub</p>
+</div>
+<div class="group cursor-pointer">
+<div class="aspect-[4/3] bg-dark-purple/20 overflow-hidden mb-6 rounded-custom transition-all duration-500">
+<div class="w-full h-full bg-cover bg-center scale-100 group-hover:scale-105 grayscale group-hover:grayscale-0 transition-transform duration-700" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuAKfzBW_y-OHNkMBKsjpmrTSvIrCBL8F5WG-i4DrWjUW1jYSZZlQQ0SLXTfFGJwlQ5ujmlgb6x8FlR7UXunIgRRNX2TPQCfG1n3yCodJL_KW9iK8wlib4aXJ7B4tsMoizkDdm_Lz0Rlu7SlheqSMWuL8gpSWkKuymbA9k5Tx1ArNFLJmeDwjEtqW6JzNc6EO8RvNmbstpI-_9xuDsrTM_KYsYd_nb95IkkwLNein4XEhHNHzocISJ3tw7_Xql9KfR6SBA4Ym4jusw');"></div>
+</div>
+<p class="text-[11px] uppercase tracking-widest font-black text-accent-pink group-hover:text-heading-peach transition-colors">The People's Plaza</p>
+</div>
+</div>
+</section>
+<section class="pt-12 border-t border-white/10">
+<h3 class="text-[10px] font-black uppercase tracking-widest mb-8 text-sub-purple">Get in Touch</h3>
+<div class="space-y-6">
+<a class="block text-sm font-bold border-b border-white/10 pb-2 text-accent-pink hover:border-heading-peach hover:text-heading-peach transition-all" href="#">@johndoe_design</a>
+<a class="block text-sm font-bold border-b border-white/10 pb-2 text-accent-pink hover:border-heading-peach hover:text-heading-peach transition-all" href="#">johndoe.design</a>
+</div>
+</section>
+</aside>
+</div>
+<footer class="mt-48 py-16 border-t-2 border-heading-peach">
+<div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-12">
+<a class="group" href="#">
+<span class="text-[10px] uppercase tracking-[0.3em] font-black mb-3 block text-sub-purple group-hover:text-accent-pink transition-all">Previous Spotlight</span>
+<span class="font-display text-4xl font-black tracking-tighter text-heading-peach group-hover:opacity-70 transition-all">Maya Angelou</span>
+</a>
+<div class="flex flex-col items-center gap-4">
+<div class="w-12 h-1 bg-accent-pink"></div>
+<div class="text-[11px] font-black uppercase tracking-[0.5em] text-heading-peach">
+                        BHM 2024
+                    </div>
+</div>
+<a class="group text-left md:text-right" href="#">
+<span class="text-[10px] uppercase tracking-[0.3em] font-black mb-3 block text-sub-purple group-hover:text-accent-pink transition-all">Next Spotlight</span>
+<span class="font-display text-4xl font-black tracking-tighter text-heading-peach opacity-20 group-hover:opacity-100 transition-all">Coming Soon</span>
+</a>
+</div>
+<div class="mt-24 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
+<p class="text-[10px] font-bold uppercase tracking-widest text-sub-purple">© 2024 28 Days of Black Designers</p>
+<div class="flex gap-8">
+<a class="header-nav-link" href="#">Privacy</a>
+<a class="header-nav-link" href="#">Contact</a>
+</div>
+</div>
+</footer>
+</main>
+
+</body></html>

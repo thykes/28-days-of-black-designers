@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>28 Days of Black Designers</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "brand-dark": "#0b032d",
+                        "brand-pale": "#FFB997",
+                        "brand-coral": "#F67E7D",
+                        "brand-accent": "#843b62",
+                    },
+                    fontFamily: {
+                        "sans": ["Inter", "sans-serif"],
+                        "serif": ["Georgia", "serif"]
+                    },
+                },
+            },
+        }
+    </script>
+<style type="text/tailwindcss">
+        @layer base {
+            h1, h2, h3, h4, nav, button, .header-text {
+                @font-family: theme('fontFamily.sans');
+            }
+            body {
+                @font-family: theme('fontFamily.serif');
+                background-color: #0b032d;
+            }
+        }
+        @layer utilities {
+            .coming-soon-gradient {
+                background: linear-gradient(135deg, #FFB997 0%, #F67E7D 100%);
+            }
+        }
+    </style>
+</head>
+<body class="text-white transition-colors duration-300 font-serif">
+<header class="sticky top-0 z-50 bg-[#0b032d] border-b border-[#843b62]/30 px-6 md:px-12 py-4">
+<div class="max-w-[1400px] mx-auto flex items-center justify-between">
+<div class="flex items-center gap-3">
+<div class="text-brand-pale w-8 h-8">
+<svg fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M39.475 21.6262C40.358 21.4363 40.6863 21.5589 40.7581 21.5934C40.7876 21.655 40.8547 21.857 40.8082 22.3336C40.7408 23.0255 40.4502 24.0046 39.8572 25.2301C38.6799 27.6631 36.5085 30.6631 33.5858 33.5858C30.6631 36.5085 27.6632 38.6799 25.2301 39.8572C24.0046 40.4502 23.0255 40.7407 22.3336 40.8082C21.8571 40.8547 21.6551 40.7875 21.5934 40.7581C21.5589 40.6863 21.4363 40.358 21.6262 39.475C21.8562 38.4054 22.4689 36.9657 23.5038 35.2817C24.7575 33.2417 26.5497 30.9744 28.7621 28.762C30.9744 26.5497 33.2417 24.7574 35.2817 23.5037C36.9657 22.4689 38.4054 21.8562 39.475 21.6262ZM4.41189 29.2403L18.7597 43.5881C19.8813 44.7097 21.4027 44.9179 22.7217 44.7893C24.0585 44.659 25.5148 44.1631 26.9723 43.4579C29.9052 42.0387 33.2618 39.5667 36.4142 36.4142C39.5667 33.2618 42.0387 29.9052 43.4579 26.9723C44.1631 25.5148 44.659 24.0585 44.7893 22.7217C44.9179 21.4027 44.7097 19.8813 43.5881 18.7597L29.2403 4.41187C27.8527 3.02428 25.8765 3.02573 24.2861 3.36776C22.6081 3.72863 20.7334 4.58419 18.8396 5.74801C16.4978 7.18716 13.9881 9.18353 11.5858 11.5858C9.18354 13.988 7.18717 16.4978 5.74802 18.8396C4.58421 20.7334 3.72865 22.6081 3.36778 24.2861C3.02574 25.8765 3.02429 27.8527 4.41189 29.2403Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg>
+</div>
+<h1 class="font-sans font-extrabold text-xl tracking-tight text-brand-pale">28 Designers</h1>
+</div>
+<nav class="flex items-center gap-8 font-sans">
+<a class="text-sm font-medium text-brand-pale hover:text-brand-coral transition-colors" href="#">Archive</a>
+<a class="text-sm font-medium text-brand-pale hover:text-brand-coral transition-colors" href="#">About</a>
+</nav>
+</div>
+</header>
+<main class="max-w-[1400px] mx-auto px-6 py-16">
+<div class="mb-16">
+<h2 class="font-sans text-5xl md:text-6xl font-extrabold tracking-tight mb-6 max-w-3xl text-brand-pale">
+            Celebrating Black Excellence in Design.
+        </h2>
+<p class="text-brand-coral text-xl font-normal max-w-2xl font-serif leading-relaxed">
+            Spotlighting 28 leaders shaping the future of visual culture throughout Black History Month.
+        </p>
+</div>
+<div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+<div class="group relative aspect-square bg-[#0b032d] rounded-[8px] overflow-hidden border border-brand-accent/40 shadow-sm hover:shadow-brand-accent/20 transition-all">
+<div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBxUzWWrtr_aRQusRMe3acrzzTfki8jlZ8PS8BBTyquGqsfKdXYBTmi8ts6ct8_tI0tANj6iWbdOBosSF8-m8uZOt0GJfL6DHbOJKyHuxy9Jd-0NyOHAN0KiMMv13uoywPYSGOe2ww-SBEVHCNYr6o7bC9aSRgwqtdoL69o5joMfp7qQwTdsBfPlqN_WTvKgQVt2jZF7hXXycFe9a_Je2YwWTjD9D4IQ3CHVZF5hBHu1EV04okLhBbWto-p_Sv-OQVai_u4YKtavg");'></div>
+<div class="absolute inset-0 bg-gradient-to-t from-[#0b032d]/90 via-[#0b032d]/30 to-transparent"></div>
+<div class="absolute inset-0 p-5 flex flex-col justify-between">
+<span class="font-sans text-[10px] font-bold text-brand-pale bg-brand-dark/60 w-fit px-2 py-0.5 rounded">01</span>
+<div>
+<h3 class="font-sans text-brand-pale text-lg font-bold">Emmett McBain</h3>
+<p class="font-sans text-brand-coral text-xs mt-0.5">Advertising Pioneer</p>
+</div>
+</div>
+</div>
+<div class="group relative aspect-square bg-[#0b032d] rounded-[8px] overflow-hidden border border-brand-accent/40 shadow-sm transition-all">
+<div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAYsWseAsRZRSFAPMkPv-5kVe_cbeulS-aH-3koE_uJCKFOsyLPZQgyryClQB4eeU34fNHLzzR_fNchu7g2EAEeCQcNafigOt9QjQZVE0FhX2yWG_QCe1CR9w7JSrjhk2_pnLUKQ6PZOiiY_zyWY1iWAo0HrFHI5vag4gR6rlqFhMHsemTQ0NOB2x_7XR3gi28jQwyk3hYYaA0MdIz0WW6p0eUwrY56fBZXS8lge5X-I563aZezi2tOR7aR1r9UsAagyYnmSxC9Rg");'></div>
+<div class="absolute inset-0 bg-gradient-to-t from-[#0b032d]/90 via-[#0b032d]/30 to-transparent"></div>
+<div class="absolute inset-0 p-5 flex flex-col justify-between">
+<span class="font-sans text-[10px] font-bold text-brand-pale bg-brand-dark/60 w-fit px-2 py-0.5 rounded">02</span>
+<div>
+<h3 class="font-sans text-brand-pale text-lg font-bold">Gail Anderson</h3>
+<p class="font-sans text-brand-coral text-xs mt-0.5">Typography Specialist</p>
+</div>
+</div>
+</div>
+<div class="group relative aspect-square bg-[#0b032d] rounded-[8px] overflow-hidden border border-brand-accent/40 shadow-sm transition-all">
+<div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAwe_yPMkp90FMDXcHlU4ULi50eXPOeawx7_khIhlY5CZxRwiT31TFgL7wuvOL9JLCscOKz0r9HKp6yzlOSM46ceeOusxfIGu3I8KNYPwaZ1z2O9rOGyWenNk4iS3oS9cq2Qm2hmsWb7-uNheoQbGQOjY37tinYmmRQFXH6hWRouQ5iT4vpGbJsGNbqtJLhmcr6IvJKRAcTLKIF34-RAD4MiRrNqaHH1aC_tD_ws85XmSRJtQmot3onrWDZCFs8NAocYWuO6F9sJw");'></div>
+<div class="absolute inset-0 bg-gradient-to-t from-[#0b032d]/90 via-[#0b032d]/30 to-transparent"></div>
+<div class="absolute inset-0 p-5 flex flex-col justify-between">
+<span class="font-sans text-[10px] font-bold text-brand-pale bg-brand-dark/60 w-fit px-2 py-0.5 rounded">03</span>
+<div>
+<h3 class="font-sans text-brand-pale text-lg font-bold">Eddie Opara</h3>
+<p class="font-sans text-brand-coral text-xs mt-0.5">Pentagram Partner</p>
+</div>
+</div>
+</div>
+<div class="group relative aspect-square bg-[#0b032d] rounded-[8px] overflow-hidden border border-brand-accent/40 shadow-sm transition-all">
+<div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuD2BA2L536p_X4zxCnQf_9x8sG7Y8LmQ-UXw2aBIS4nbUxFZlE_zSPsHRmQAqq8FCUEve1qdVV1jjoHtjN8yoOfD-0MnV4FoHeeFYY50FD1eRQPMATdtsW8DX9DTXVJYLeofccTBuOuBgQlR5PH-VTXjcXkZdcV4TvafmAMfIrypWkXlceE0MnuaScvKenK5SzmLQM1o29gUvisYDWmtxtbcxv_haAZZaHuFEvQXb5q5zH9JeR7xqrC1PYSU3EryptKrr4RYjfXkQ");'></div>
+<div class="absolute inset-0 bg-gradient-to-t from-[#0b032d]/90 via-[#0b032d]/30 to-transparent"></div>
+<div class="absolute inset-0 p-5 flex flex-col justify-between">
+<span class="font-sans text-[10px] font-bold text-brand-pale bg-brand-dark/60 w-fit px-2 py-0.5 rounded">04</span>
+<div>
+<h3 class="font-sans text-brand-pale text-lg font-bold">Cheryl D. Miller</h3>
+<p class="font-sans text-brand-coral text-xs mt-0.5">Design Advocate</p>
+</div>
+</div>
+</div>
+<div class="group relative aspect-square bg-[#0b032d] rounded-[8px] overflow-hidden border border-brand-accent/40 shadow-sm transition-all">
+<div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDlGY3iOonVN5Wq1yuM6DGBI4ZI8sUByOoJQjtIAspYKKcUAMuNFFMipw1ReBkLIgZD-tY5_q_-Pk0WYX1uviQSYX6p1Uc6slQdoNcPR1fwNlYmVQ0MCyVLqaeCnxo2M_6iD6OfPgPfsymaWBaFdytLIV810X54De1uTjZhjMf3CbaI84C3VhFgvSw_OfCbYTwyI3UD3aTjSlgrXgiOuWLrKW8WFxba5WPraHC_hsNna6SJVWcUAoq7iFhgP-GiiKe2Uyg5lNhTtg");'></div>
+<div class="absolute inset-0 bg-gradient-to-t from-[#0b032d]/90 via-[#0b032d]/30 to-transparent"></div>
+<div class="absolute inset-0 p-5 flex flex-col justify-between">
+<span class="font-sans text-[10px] font-bold text-brand-pale bg-brand-dark/60 w-fit px-2 py-0.5 rounded">05</span>
+<div>
+<h3 class="font-sans text-brand-pale text-lg font-bold">Maurice Cherry</h3>
+<p class="font-sans text-brand-coral text-xs mt-0.5">Creative Strategist</p>
+</div>
+</div>
+</div>
+<div class="group relative aspect-square bg-[#0b032d] rounded-[8px] overflow-hidden border border-brand-accent/40 shadow-sm transition-all">
+<div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDKWy6z5-ObeIvpfPl63ajXV6gXhULUffyPnZnpMdZzepw2Sj8DOHaH7XYBP1KUAyejp6xQjDFk-0bOnKn5QsQpgOmPZeX7i4vE10vhU0i586eaDb0bu41WTmiphEC9Cx_tUMY3ZvpgjCe9KBwRRSPioEXYqY56SyLaHso_EbrFQwxJnV5iU0VOEITeWAVkViC8-bbdv3kQ1ZIb1qEtXauVklGp2CtV-k30EWEdv8B-574C0jiYXbH4OjQnbLD-f4XQirh-2M8ruQ");'></div>
+<div class="absolute inset-0 bg-gradient-to-t from-[#0b032d]/90 via-[#0b032d]/30 to-transparent"></div>
+<div class="absolute inset-0 p-5 flex flex-col justify-between">
+<span class="font-sans text-[10px] font-bold text-brand-pale bg-brand-dark/60 w-fit px-2 py-0.5 rounded">06</span>
+<div>
+<h3 class="font-sans text-brand-pale text-lg font-bold">Tré Seals</h3>
+<p class="font-sans text-brand-coral text-xs mt-0.5">Type Designer</p>
+</div>
+</div>
+</div>
+<div class="relative aspect-square coming-soon-gradient rounded-[8px] overflow-hidden border border-brand-accent/60 shadow-lg">
+<div class="absolute inset-0 bg-[#0b032d]/10 backdrop-blur-sm flex flex-col items-center justify-center">
+<div class="text-center">
+<p class="font-sans text-[10px] font-bold uppercase tracking-widest text-[#0b032d]/60 mb-1">Feb</p>
+<p class="font-sans text-4xl font-extrabold text-[#0b032d]">07</p>
+<p class="font-sans text-[9px] font-bold uppercase tracking-widest text-[#0b032d]/60 mt-4">Coming Soon</p>
+</div>
+</div>
+</div>
+<div class="group relative aspect-square bg-[#0b032d] rounded-[8px] overflow-hidden border border-brand-accent/40 shadow-sm transition-all">
+<div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCqUPu6Gr2riZO1Mny5RcLH5Sufr9a2ul3a2liJv6zLKmg1YExPpXweK6OWn1_jeFleguLd-ioAshUvTLt60nL3G6SFmU9ptuNoh9i-oFjhyM63OY82dhKzCoQM21NtukU9Vp3eK0bA6mVZ3usWf6j6pKarrE3T3evjCz9s3d38qw9qLqY4vmiIYiDOeAVZQegmzORGjuzrqMHkSrv0GsvmjIBDFEuJp8oF8xUyg42dlr0LkXe2Nf16RjypCh9uRGS4L5M-dQtGzA");'></div>
+<div class="absolute inset-0 bg-gradient-to-t from-[#0b032d]/90 via-[#0b032d]/30 to-transparent"></div>
+<div class="absolute inset-0 p-5 flex flex-col justify-between">
+<span class="font-sans text-[10px] font-bold text-brand-pale bg-brand-dark/60 w-fit px-2 py-0.5 rounded">08</span>
+<div>
+<h3 class="font-sans text-brand-pale text-lg font-bold">Jon Key</h3>
+<p class="font-sans text-brand-coral text-xs mt-0.5">Artist &amp; Designer</p>
+</div>
+</div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 09</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 10</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 11</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 12</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 13</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 14</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 15</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 16</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 17</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 18</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 19</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 20</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 21</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 22</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 23</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 24</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 25</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 26</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 27</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+<div class="relative aspect-square bg-brand-dark/40 border border-brand-accent/20 rounded-[8px] flex flex-col items-center justify-center opacity-40">
+<span class="font-sans text-[10px] font-bold text-brand-coral/60">Feb 28</span>
+<div class="mt-2 w-4 h-[1px] bg-brand-accent/40"></div>
+</div>
+</div>
+</main>
+<footer class="border-t border-brand-accent/30 mt-24 py-16 bg-[#0b032d]">
+<div class="max-w-[1400px] mx-auto px-6 flex flex-col md:flex-row justify-between items-start gap-12">
+<div class="max-w-sm">
+<h2 class="font-sans font-bold text-lg mb-4 text-brand-pale">28 Days of Black Designers</h2>
+<p class="text-brand-coral/80 text-sm leading-relaxed">
+                A project dedicated to celebrating the legacy and future of Black designers worldwide. Curated for inspiration and recognition.
+            </p>
+</div>
+<div class="flex gap-16">
+<div class="flex flex-col gap-4">
+<span class="font-sans text-[10px] font-bold uppercase tracking-widest text-brand-coral/50">Navigation</span>
+<a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors" href="#">Home</a>
+<a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors" href="#">Archive</a>
+<a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors" href="#">About</a>
+</div>
+<div class="flex flex-col gap-4">
+<span class="font-sans text-[10px] font-bold uppercase tracking-widest text-brand-coral/50">Social</span>
+<a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors" href="#">Instagram</a>
+<a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors" href="#">Twitter</a>
+</div>
+</div>
+<div class="pt-2">
+<p class="font-sans text-[10px] text-brand-coral/50 uppercase tracking-widest">© 2024 Unified Design Project</p>
+</div>
+</div>
+</footer>
+
+</body></html>
