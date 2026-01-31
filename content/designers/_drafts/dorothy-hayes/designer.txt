@@ -1,0 +1,63 @@
+Title: Dorothy Hayes
+
+----
+
+Day: 18
+
+----
+
+Job-title: 1935-2015
+
+----
+
+Tags: Graphic Designer
+
+----
+
+Twitter: 
+
+----
+
+Role: Graphic Designer
+
+----
+
+Cover:
+
+dorothy-hayes-18.png 
+Cover: dorothy.jpg
+
+----
+
+Text: 
+
+----
+
+Intro: 
+
+----
+
+Interview-intro: 
+
+----
+
+Interview:
+
+- 
+  question: "Mobile, Alabama to New York City, New York"
+  answer: |
+    Dorthy Hayes, born in Mobile, Alabama, in 1935, decided on graphic design while in high school. She moved to New York in 1958 graduating in graphic design from Cooper Union in 1967. She determined to be ultra-professional and win respect as both a woman and a designer. In 1971 she told a journalist, "You can't get around being a woman. They're going to see it the moment you walk in the door, and they're going to have to go through their man thing with you, the idea that you're theirs, that you'll do whatever they say, like an office wife. It's beautiful, though: if you present yourself as a professional, they really respect you for it. They know you've paid you've paid your dues just like they had to.\
+
+    When she first arrived in New York City, she couldn't find any black whom she could relate to professionally. The ones she tried to talk to wouldn't talk to her, or they would just brush her off. This experience would soon prompt her to be a role model for future blacks and create experiences to spotlight their work and achievements.  She went on record to say:
+
+    Hayes organized Black Artists in Graphic Communication in 1970 and exhibition that profiled forty-nine young black graphic designers - men and women, including Dorothy Akubuiro, Josephine Jones, and Diane Dillion. Haye's ran Dorothy's Door, a commercial art and design company services major corporate clients such as CBS Radio and AT&T.
+
+    ***
+					Unfortunately, the trail of Dorothy's history ran dry after Dorothy's Door. I'll continue to search newspapers and magazine articles for more information, but until then this is the only information I have to share."
+- 
+  question: "Resources"
+  answer: ""
+
+----
+
+Uuid: clavjxtjngftgbmc

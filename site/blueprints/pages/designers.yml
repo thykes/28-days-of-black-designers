@@ -1,5 +1,22 @@
 title: Designers
-fields:
-  head:
-    type: info
-    text: Collection of Designer Profiles
+
+sections:
+  header_fields:
+    type: fields
+    fields:
+      description:
+        label: Section Description
+        type: textarea
+        size: small
+
+  designer_list:
+    type: pages
+    label: All Designers
+    layout: cards
+    template: designer
+    image:
+      query: page.cover.toFile
+      ratio: 1/1
+      cover: true
+    info: "{{ page.year }}"
+    sortBy: title asc

@@ -6,11 +6,19 @@ Day: 1
 
 ----
 
-Job Title: 1953 - 2011
+Role: Designer • Design Strategist
 
 ----
 
-Tags: Designer • Design Strategist
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
 
 ----
 
@@ -18,50 +26,101 @@ Twitter:
 
 ----
 
-Role: Designer • Design Strategist
-
-----
-
-Cover: sylvia-harris-1.png 
-Cover: sylvia-harris.png
-
-----
-
-Text: 
-
+Tags: Designer • Design Strategist, Creative Director, Educator
 
 ----
 
 Intro: 
 
+----
+
+Text:
+
+Sylvia Harris was more than a graphic designer; she was a pioneer of "social design" who believed that clear communication was a fundamental civil right. Growing up in the segregated South, Harris developed a keen eye for how systems either include or exclude people. She dedicated her three-decade career to tearing down the barriers between complex institutions and the public they serve.
+
+From the interfaces of the first Citibank ATMs to the reimagining of the U.S. Census, Harris’s work was rooted in the radical idea that design should be human-centered, accessible, and inclusive. By blending strategic research with aesthetic clarity, she transformed the way millions of Americans navigate hospitals, universities, and government systems, leaving a legacy that proves design is one of the most powerful tools for social equity.
 
 ----
 
-Interview Intro: 
+Interview:
 
+- 
+  type: ""
+  question: 'Background & Early Influences'
+  answer: |
+    Sylvia Harris grew up in Richmond, Virginia, during the 1960s—a period when desegregation dominated the headlines. Experiencing this social shift firsthand gave Harris a profound understanding of people and social systems. In 1975, she earned her Bachelor of Fine Arts in Communication Art and Design from Virginia Commonwealth University. It was there she met AIGA Medalist Philip Meggs, who introduced her to the transformative power of design.
+    
+    After graduation, Harris moved to Boston, where she truly found her "creative fire." She landed a position at WGBH, working under Chris Pullman. Pullman became more than a boss; he was a mentor who recognized her potential and encouraged her to explore the social impact of the medium. During the late 1970s, people of color were significantly underrepresented in high-level design roles, making Pullman’s mentorship particularly vital.
+  quote_text: ""
+  citation: ""
+- 
+  type: ""
+  question: Finding Her Path
+  answer: |
+    Before departing for graduate school, Harris joined The Architects Collaborative (TAC). This role proved to be a turning point, as it introduced her to environmental graphic design. Seeing how design functioned within physical, public spaces set the tone for her later achievements in "wayfinding" and public information systems.
+    
+    Following Pullman’s advice, Harris enrolled at Yale University, earning her Master of Fine Arts in Graphic Design. In 1980, she co-founded Two Twelve Associates in New York City alongside Juanita Dugdale and David Gibson. The firm specialized in making complex public information—like hospital maps and city signage—accessible and easy to navigate.
+  quote_text: ""
+  citation: ""
+- 
+  type: ""
+  question: Human-Centered Innovation
+  answer: |
+    Harris was a pioneer of Human-Centered Design before the term became a corporate buzzword. Her groundbreaking work for Citibank involved designing the first human-centered interfaces for ATMs, essentially setting the global standard for automated customer service.
+    
+    In 1994, she established Sylvia Harris LLC (later known as Citizen Research & Design). She shifted her focus toward solving "large-scale communication problems" for the nation’s largest hospitals, universities, and civic agencies. Her crowning achievement was her work on the United States Census 2000.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    Harris utilized her childhood
+    experiences with desegregation to design
+    a campaign that encouraged
+    under-represented citizens to
+    participate. By making the forms more
+    user-friendly and the messaging more
+    inclusive, she helped ensure a more
+    accurate representation of the American
+    public.
+  citation: ""
+- 
+  type: qa
+  question: Legacy and the AIGA Medal
+  answer: |
+    Harris wasn't just a designer; she was a "design strategist." She believed that design was a tool for social justice and civic participation. On April 25, 2014, Harris was posthumously awarded the AIGA Medal, the organization's highest honor, recognizing her lifetime of work in making the world a more navigable and equitable place.
+  quote_text: ""
+  citation: ""
 
 ----
 
-Interview: 
-- 
-  question: "Background"
-  answer: |
-    Sylvia Harris grew up in Richmond, Virginia during the 1960s. This was a time when desegregation led the headlines in the newspapers. As a first-hand experience of the process, it gave Harris a unique understanding of people and social systems. In 1975 she attained her Bachelors of Fine Arts in communication art and design from Virginia Commonwealth University. There is where she met AIGA Medalist Philip Meggs who gave her the first taste of the Kool-Aid we call design. After college, she moved to Boston, and that is where she would find her fire for design. In Boston, Sylvia landed a job at WGBH and worked directly with Chris Pullman. Chris became much more than a boss. He grew to become Sylvia's mentor and friends. Chris recognized her potential and in helping her explore the possibilities, he ended up leaving an impressionable mark on her career.
+Cover: - file://ind2hg8cnbn91mnv
 
-    During late 1970 there weren't many persons of color doing the work that Chris was doing. So Harris had slim pickings when it came to impressionable mentors. Lucky for her there was Chris. In leaving his mark, Chris would soon help Sylvia find her path to Yale for graduate school. Before the trip to Yale Harris scored another job at The Architects Collaborative where she was introduced to environmental graphic for the first time. This job was a life changer because it set the tone for her later achievements.
-- 
-  question: "After Yale"
-  answer: |
-    Sylvia finally left The Architects Collaborative because she believed she didn't know enough about design. From the advice, she received from Chris; Harris went to Yale where she earned a Master of Fine Arts in Graphic Design. In 1980 she along with Juanita Dugdale and David Gipson cofounded Two Twelve Associates a design consulting firm in New York City. Just like any successful company projects grow and in that growth Harris also grew. David explained:
+----
 
-    This fire leads to her ground breaking work for Citibank, and it set the standard for human-centered automated customer service. In 1994 she started Sylvia Harris LLC afterleaving Two Twelve. As her passion grew, she found her self-helping to solve problems for the nation's largest hospitals, universities, and civic agencies through systems planning, policy development, and innovation management. Sylvia is the brains behind the design of the United States Census Bureau, Census 2000 and that's where her experience from the 1960s help her to encourage under-represented citizens to participate.
-- 
-  question: "At AIGA"
-  answer: |
-    On April 25, 2014, at the AIGA Centennial Gala, Harris was awarded the AIGA Medal. The medal is AIGA's most distinguished award, and it's the highest honor a designer can achieve from the organization.
+Selected-works:
 
-    ***
-    					This is the story of Sylvia Harris. A beautiful soul who loves a mark for many to follow for generations to come. May her story live on through the books and the hearts of the people she touched.
+- file://kjqp9zl7ahtjenec
+- file://fhtuoa0svf0ktore
+
+----
+
+Job-title: 1953 - 2011
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: denmw6ji4dnahgoo
+
+----
+
+Quotes:
+
 - 
-  question: "Resources"
-  answer: "The following websites were used to as resources to help write this story."
+  quote: 'The Impact of the 2000 Census: Harris utilized her childhood experiences with desegregation to design a campaign that encouraged under-represented citizens to participate. By making the forms more user-friendly and the messaging more inclusive, she helped ensure a more accurate representation of the American public.'
+  citation: ""

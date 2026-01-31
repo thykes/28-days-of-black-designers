@@ -1,8 +1,28 @@
 title: Home
-fields:
-  intro_title:
-    label: Intro Title
-    type: text
-  intro_text:
-    label: Intro Text
-    type: textarea
+
+columns:
+  - width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          intro_title:
+            label: Intro Title
+            type: text
+          intro_text:
+            label: Intro Text
+            type: textarea
+
+  - width: 1/2
+    sections:
+      designers_preview:
+        type: pages
+        label: Designers (Direct Link)
+        parent: site.find("designers")
+        template: designer
+        layout: cards
+        image:
+          query: page.cover.toFile
+          ratio: 1/1
+          cover: true
+        limit: 10

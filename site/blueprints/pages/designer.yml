@@ -26,6 +26,14 @@ fields:
     label: Twitter URL
     type: url
     width: 1/2
+  instagram:
+    label: Instagram URL
+    type: url
+    width: 1/2
+  bluesky:
+    label: Bluesky URL
+    type: url
+    width: 1/2
   tags:
     label: Area of Expertise
     type: tags
@@ -37,13 +45,41 @@ fields:
     type: textarea
     size: large
   interview:
-    label: Interview
+    label: The Interview
     type: structure
+    label: Interview & Quotes
     fields:
+      type:
+        label: Entry Type
+        type: radio
+        default: qa
+        options:
+          qa: Question & Answer
+          quote: Highlight Quote
+        width: 1/6
       question:
+        label: Question
         type: text
+        width: 5/6
+        when:
+          type: qa
       answer:
+        label: Answer
         type: textarea
+        size: medium
+        when:
+          type: qa
+      quote_text:
+        label: Quote Text
+        type: textarea
+        size: large
+        when:
+          type: quote
+      citation:
+        label: Citation (Optional)
+        type: text
+        when:
+          type: quote
   cover:
     type: files
     max: 1

@@ -1,5 +1,26 @@
 title: Site
 
-sections:
-  pages:
-    type: pages
+columns:
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        label: Main Pages
+        templates:
+          - about
+          - designers
+          - default
+
+  - width: 1/2
+    sections:
+      dashboard_designers:
+        type: pages
+        label: Featured Designers (Quick Access)
+        parent: site.find("designers")
+        template: designer
+        limit: 5
+        layout: cards
+        image:
+          query: page.cover.toFile
+          ratio: 1/1
+          cover: true

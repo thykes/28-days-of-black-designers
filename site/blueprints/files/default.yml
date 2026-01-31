@@ -1,0 +1,24 @@
+title: File
+accept: true
+
+fields:
+  alt:
+    label: Alt Text
+    type: text
+    width: 1/2
+    help: Short description of the image for screen readers and SEO.
+  caption:
+    label: Caption
+    type: textarea
+    size: small
+    width: 1/2
+    buttons: false
+    help: Visible caption to display with the image.
+  credit:
+    label: Image Credit / Photographer
+    type: text
+    width: 1/2
+  link:
+    label: Link
+    type: url
+    width: 1/2
