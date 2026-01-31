@@ -62,6 +62,24 @@
                         </a>
                         <?php endif ?>
                         
+                        <?php if ($page->founder_linkedin()->isNotEmpty()): ?>
+                            <a class="w-12 h-12 rounded-full border border-[#F67E7D]/30 text-[#F67E7D] flex items-center justify-center hover:bg-[#F67E7D] hover:text-[#0b032d] transition-all" href="<?= $page->founder_linkedin() ?>" title="LinkedIn">
+                                <!-- LinkedIn SVG -->
+                                <svg class="w-[16px] h-[16px] fill-current" viewBox="0 0 448 512">
+                                    <path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.28c12.4-23.47 42.6-48.28 87.88-48.28 94 0 111.28 61.9 111.28 142.3V448z" />
+                                </svg>
+                            </a>
+                        <?php endif ?>
+
+                        <?php if ($page->founder_bluesky()->isNotEmpty()): ?>
+                            <a class="w-12 h-12 rounded-full border border-[#F67E7D]/30 text-[#F67E7D] flex items-center justify-center hover:bg-[#F67E7D] hover:text-[#0b032d] transition-all" href="<?= $page->founder_bluesky() ?>" title="Bluesky">
+                                <!-- Bluesky SVG -->
+                                <svg class="w-[18px] h-[18px] fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.524 6.438.234 1.263 1.29 2.119 2.742 2.119 1.392 0 3.29-.68 3.29-.68.204.992-.472 2.39-1.391 3.235-5.594 5.15-2.035 8.654 1.583 6.64 5.385-2.997 5.25-4.492 5.25-4.492s-.135 1.493 5.251 4.492c3.618 2.014 7.175-1.49 1.583-6.64-.92-.843-1.595-2.243-1.392-3.235 0 0 1.9.68 3.291.68 1.452 0 2.508-.856 2.742-2.12.146-.788.524-5.747.524-6.437 0-.689-.139-1.86-.902-2.204-.66-.299-1.664-.621-4.302 1.24C16.046 4.748 13.087 8.687 12 10.8Z" />
+                                </svg>
+                            </a>
+                        <?php endif ?>
+                        
                          <?php if ($page->founder_twitter()->isNotEmpty()): ?>
                             <a class="w-12 h-12 rounded-full border border-[#F67E7D]/30 text-[#F67E7D] flex items-center justify-center hover:bg-[#F67E7D] hover:text-[#0b032d] transition-all" href="<?= $page->founder_twitter() ?>" title="X (Twitter)">
                                 <!-- X Logo SVG -->
