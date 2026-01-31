@@ -69,6 +69,10 @@ columns:
              label: Founder Bluesky
              type: url
              icon: cloud
+          founder_threads:
+             label: Founder Threads
+             type: url
+             icon: at-sign
           founder_twitter:
              label: Founder Twitter
              type: url

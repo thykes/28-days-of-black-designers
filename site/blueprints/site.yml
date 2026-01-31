@@ -45,6 +45,10 @@ columns:
             label: TikTok URL
             type: url
             icon: video
+          social_threads:
+            label: Threads URL
+            type: url
+            icon: at-sign
           social_twitter:
             label: X (Twitter) URL
             type: url

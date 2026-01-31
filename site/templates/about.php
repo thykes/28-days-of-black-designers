@@ -79,6 +79,15 @@
                                 </svg>
                             </a>
                         <?php endif ?>
+
+                        <?php if ($page->founder_threads()->isNotEmpty()): ?>
+                            <a class="w-12 h-12 rounded-full border border-[#F67E7D]/30 text-[#F67E7D] flex items-center justify-center hover:bg-[#F67E7D] hover:text-[#0b032d] transition-all" href="<?= $page->founder_threads() ?>" title="Threads">
+                                <!-- Threads SVG -->
+                                <svg class="w-[16px] h-[16px] fill-current" viewBox="0 0 24 24">
+                                    <path d="M12.004 22c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zm-1.096-7.79c-1.31 0-2.378-.96-2.378-2.345 0-1.353 1.056-2.333 2.544-2.333.626 0 1.25.155 1.774.452l1.643-2.952A9.43 9.43 0 0 0 11.23 6.43c-3.8 0-6.655 2.583-6.655 6.32 0 3.322 2.392 5.8 6.095 5.8 2.227 0 3.965-1.048 4.703-2.655h2.18c-1.12 3.166-3.87 4.904-7.05 4.904-5.06 0-8.94-3.642-8.94-8.523C1.562 7.155 5.61 2.94 11.54 2.94c5.07 0 8.785 3.512 8.785 8.69 0 5.464-3.32 9.023-7.797 9.023-2.583 0-4.143-1.464-4.143-3.082 0-2.143 1.964-2.857 4.547-2.857.464 0 .917.036 1.358.107 0-2.143-1.37-3.238-3.38-3.238z"></path>
+                                </svg>
+                            </a>
+                        <?php endif ?>
                         
                          <?php if ($page->founder_twitter()->isNotEmpty()): ?>
                             <a class="w-12 h-12 rounded-full border border-[#F67E7D]/30 text-[#F67E7D] flex items-center justify-center hover:bg-[#F67E7D] hover:text-[#0b032d] transition-all" href="<?= $page->founder_twitter() ?>" title="X (Twitter)">
