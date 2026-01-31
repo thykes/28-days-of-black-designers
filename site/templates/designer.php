@@ -6,7 +6,7 @@
                 <div class="mb-10">
                     <span
                         class="inline-block py-1 px-3 bg-dark-purple text-heading-peach text-[10px] font-black uppercase tracking-widest rounded-sm mb-6">Day
-                        <?= $page->day() ?> • Feb 2024
+                        <?= $page->day() ?> • Feb 2026
                     </span>
                     <h1
                         class="font-display font-black text-7xl md:text-8xl lg:text-9xl leading-[0.9] tracking-tighter mb-10 text-heading-peach">
@@ -202,7 +202,7 @@
             <div class="flex flex-col items-center gap-4">
                 <div class="w-12 h-1 bg-accent-pink"></div>
                 <div class="text-[11px] font-black uppercase tracking-[0.5em] text-heading-peach">
-                    BHM 2024
+                    BHM 2026
                 </div>
             </div>
 
@@ -222,7 +222,7 @@
 
         </div>
         <div class="mt-24 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
-            <p class="text-[10px] font-bold uppercase tracking-widest text-sub-purple">© 2024 28 Days of Black
+            <p class="text-[10px] font-bold uppercase tracking-widest text-sub-purple">© 2026 28 Days of Black
                 Designers</p>
             <div class="flex gap-8">
                 <a class="header-nav-link" href="#">Privacy</a>
