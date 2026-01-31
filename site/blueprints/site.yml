@@ -24,3 +24,28 @@ columns:
           query: page.cover.toFile
           ratio: 1/1
           cover: true
+
+      social_media:
+        type: fields
+        label: Site Social Media
+        fields:
+          social_linkedin:
+            label: LinkedIn URL
+            type: url
+            icon: linkedin
+          social_instagram:
+            label: Instagram URL
+            type: url
+            icon: instagram
+          social_youtube:
+            label: YouTube URL
+            type: url
+            icon: youtube
+          social_tiktok:
+            label: TikTok URL
+            type: url
+            icon: video
+          social_twitter:
+            label: X (Twitter) URL
+            type: url
+            icon: twitter

@@ -88,22 +88,7 @@
     <!-- Footer -->
     <!-- ... reusing footer code or static ... -->
 </main>
-<footer class="w-full py-20 px-8 border-t border-white/10 bg-[#0b032d]">
-    <div class="max-w-[1400px] mx-auto flex flex-col md:flex-row justify-between items-center gap-12">
-        <div class="flex flex-col gap-6 text-center md:text-left">
-            <!-- ... -->
-            <span class="font-black text-xl tracking-tight uppercase text-white">28 Days</span>
-        </div>
-        <div class="flex gap-12">
-            <a class="text-xs font-bold tracking-widest text-white/70 hover:text-[#F67E7D] transition-colors uppercase"
-                href="#">Twitter</a>
-            <a class="text-xs font-bold tracking-widest text-white/70 hover:text-[#F67E7D] transition-colors uppercase"
-                href="#">Instagram</a>
-            <a class="text-xs font-bold tracking-widest text-white/70 hover:text-[#F67E7D] transition-colors uppercase"
-                href="#">Contact</a>
-        </div>
-    </div>
-</footer>
+<?php snippet('footer') ?>
 
 </body>
 

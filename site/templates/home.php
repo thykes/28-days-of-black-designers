@@ -71,41 +71,7 @@
 
     </div>
 </main>
-<footer class="border-t border-brand-accent/30 mt-24 py-16 bg-[#0b032d]">
-    <div class="max-w-[1400px] mx-auto px-6 flex flex-col md:flex-row justify-between items-start gap-12">
-        <div class="max-w-sm">
-            <h2 class="font-sans font-bold text-lg mb-4 text-brand-pale">28 Days of Black Designers</h2>
-            <p class="text-brand-coral/80 text-sm leading-relaxed">
-                A project dedicated to celebrating the legacy and future of Black designers worldwide. Curated for
-                inspiration and recognition.
-            </p>
-        </div>
-        <div class="flex gap-16">
-            <div class="flex flex-col gap-4">
-                <span
-                    class="font-sans text-[10px] font-bold uppercase tracking-widest text-brand-coral/50">Navigation</span>
-                <a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors"
-                    href="<?= $site->url() ?>">Home</a>
-                <a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors"
-                    href="<?= page('designers')->url() ?>">Archive</a>
-                <a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors"
-                    href="<?= page('about')->url() ?>">About</a>
-            </div>
-            <div class="flex flex-col gap-4">
-                <span
-                    class="font-sans text-[10px] font-bold uppercase tracking-widest text-brand-coral/50">Social</span>
-                <a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors"
-                    href="#">Instagram</a>
-                <a class="font-sans text-sm text-brand-pale hover:text-brand-coral transition-colors"
-                    href="#">Twitter</a>
-            </div>
-        </div>
-        <div class="pt-2">
-            <p class="font-sans text-[10px] text-brand-coral/50 uppercase tracking-widest">© 2024 Unified Design
-                Project</p>
-        </div>
-    </div>
-</footer>
+<?php snippet('footer') ?>
 
 </body>
 
