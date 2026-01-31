@@ -1,36 +1,80 @@
-<img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
+# 28 Days of Black Designers
 
-**Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
-The Plainkit is a minimal Kirby setup with the basics you need to start a project from scratch. It is the ideal choice if you are already familiar with Kirby and want to start step-by-step.
+A curated exhibition platform celebrating the contributions of Black designers, built with [Kirby CMS](https://getkirby.com).
 
-You can learn more about Kirby at [getkirby.com](https://getkirby.com).
+## 🚀 Getting Started
 
-### Try Kirby for free
+### Prerequisites
 
-You can try Kirby and the Plainkit on your local machine or on a test server as long as you need to make sure it is the right tool for your next project. … and when you’re convinced, [buy your license](https://getkirby.com/buy).
+- PHP 8.2+
+- Composer
+- A local server environment (MAMP, Laravel Valet, Herd, or PHP's built-in server)
 
-### Get going
+### Installation
 
-Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/thykes/28-days-of-black-designers.git
+   ```
+2. Install dependencies:
+   ```bash
+   composer install
+   ```
+3. Start the server:
+   ```bash
+   composer start
+   ```
+   Or point your MAMP/Herd document root to the `28black` folder.
 
-You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.
-If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
+## 🛠 Automated TDD & Deployment Workflow
 
-    git clone https://github.com/getkirby/plainkit.git
+This project uses a custom suite of scripts to ensure content integrity and safe deployments to **Fortrabbit**.
 
-## What's Kirby?
+### 1. Pre-Flight Content Validator
 
--   **[getkirby.com](https://getkirby.com)** – Get to know the CMS.
--   **[Try it](https://getkirby.com/try)** – Take a test ride with our online demo. Or download one of our kits to get started.
--   **[Documentation](https://getkirby.com/docs/guide)** – Read the official guide, reference and cookbook recipes.
--   **[Issues](https://github.com/getkirby/kirby/issues)** – Report bugs and other problems.
--   **[Feedback](https://feedback.getkirby.com)** – You have an idea for Kirby? Share it.
--   **[Forum](https://forum.getkirby.com)** – Whenever you get stuck, don't hesitate to reach out for questions and support.
--   **[Discord](https://chat.getkirby.com)** – Hang out and meet the community.
--   **[Mastodon](https://mastodon.social/@getkirby)** – Spread the word.
--   **[Bluesky](https://bsky.app/profile/getkirby.com)** – Spread the word.
+Run this before committing to verify content structure and data integrity.
+
+```bash
+php scripts/preflight.php
+```
+
+_Checks: Numbered folder prefixes, template naming conventions, and blueprint field synchronization._
+
+### 2. Broken Link Scanner
+
+Crawl the local site to find broken internal links or missing images.
+
+```bash
+php scripts/link-scanner.php
+```
+
+### 3. Sync & Deploy (The 'Safety Shield')
+
+To sync production content (from Fortrabbit) to your local environment, check for code drift, and auto-commit:
+
+```bash
+./sync.sh
+```
+
+_Note: Configured for Fortrabbit. Ensure SSH access is set up._
+
+### 4. Remote Deployment
+
+Post-deployment tasks (cache clearing, permission fixes) are handled by:
+
+```bash
+scripts/remote-deploy.sh
+```
 
 ---
 
-© 2009 Bastian Allgeier
-[getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
+## 📂 Project Structure
+
+- **content/**: Flat-file content (Text files).
+- **site/**: Templates, blueprints, and config.
+- **assets/**: CSS, JS, and static images.
+- **scripts/**: Automation tools for the TDD workflow.
+
+---
+
+Built with ❤️ using [Kirby](https://getkirby.com).
