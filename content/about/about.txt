@@ -2,4 +2,56 @@ Title: About
 
 ----
 
+Hero-headline: Honoring the architects of visual culture.
+
+----
+
+Hero-subheadline: A curated celebration of Black excellence in design, spotlighting one visionary creator every day of February.
+
+----
+
+Mission-quote: This project isn't just about a single month. It's about building a permanent archive of talent that has historically been overlooked, ensuring the next generation of designers sees themselves reflected in the industry's history.
+
+----
+
+Founder-name: Tim Hykes
+
+----
+
+Founder-role: Creator · Designer
+
+----
+
+Founder-bio: <p>Tim Hykes is a Senior Interaction Designer at Google, designing AI initiatives in Search. He started the <strong>28 Days of Black Designers Project</strong> in 2007 as a personal project to track the incredible talent he discovered across the industry. A former President of AIGA Saint Louis, Tim focuses on the intersection of generative AI and design, ensuring global products are built for eveyone.</p>
+
+----
+
+Founder-image: - file://xhml75a3le2dqrpm
+
+----
+
+Founder-website: https://www.timhykes.com/
+
+----
+
+Founder-instagram: https://www.instagram.com/maxdelaro/
+
+----
+
+Founder-linkedin: https://www.linkedin.com/in/timhykes/
+
+----
+
+Founder-bluesky: https://bsky.app/profile/thykes.bsky.social
+
+----
+
+Founder-threads: https://www.threads.com/@maxdelaro/
+
+----
+
+Founder-twitter: https://x.com/timothyhykes
+
+----
+
 Uuid: gyt9o0367cfuimwc

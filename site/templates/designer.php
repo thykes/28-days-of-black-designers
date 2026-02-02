@@ -167,7 +167,7 @@
 
                     foreach ($works as $work):
                         ?>
-                        <div class="group cursor-pointer">
+                        <div class="group cursor-pointer lightbox-trigger" data-full-url="<?= $work->url() ?>">
                             <div
                                 class="aspect-[4/3] bg-dark-purple/20 overflow-hidden mb-6 rounded-custom transition-all duration-500">
                                 <div class="w-full h-full bg-cover bg-center scale-100 group-hover:scale-105 grayscale group-hover:grayscale-0 transition-transform duration-700"
@@ -230,6 +230,21 @@
             </div>
         </div>
     </footer>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox-modal"
+        class="fixed inset-0 z-[100] bg-page-bg/95 backdrop-blur-sm hidden flex items-center justify-center p-4 lg:p-12 transition-opacity duration-300">
+        <button id="lightbox-close"
+            class="absolute top-6 right-6 text-heading-peach hover:text-accent-pink transition-colors z-50">
+            <span class="material-symbols-outlined !text-4xl">close</span>
+        </button>
+        <div class="relative max-w-full max-h-full">
+            <img id="lightbox-image" src="" alt="Selected Work"
+                class="max-w-full max-h-[90vh] object-contain rounded-custom shadow-2xl">
+        </div>
+    </div>
+
+    <script src="<?= $site->url() ?>/assets/js/lightbox.js"></script>
 </main>
 </body>
 

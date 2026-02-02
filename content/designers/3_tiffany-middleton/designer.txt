@@ -1,0 +1,259 @@
+Title: Tiffany Middleton
+
+----
+
+Day: 3
+
+----
+
+Role: Digital Media Designer • Social Media Strategist
+
+----
+
+Location: 
+
+----
+
+Website: https://tiffanymiddleton.com/
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: 
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Digital Media Designer • Social Media Strategist
+
+----
+
+Intro:
+
+Option 1: The "Game-Changer" (Best for a Blog or Magazine)
+Title: From the Baseline to Bristol: The Vision of Tiffany Middleton
+
+----
+
+Text: Growing up in a small town in Alabama, design was an unknown entity to me. Oddly, I always found myself admiring cover art and layouts in the magazine sections of local grocery stores. As fate would have it, the term "graphic design" was introduced to me via an issue of Teen Vogue. Years later, I graduated from Auburn University with a degree in graphic design—a journey that would take me from the field of Jordan-Hare Stadium to a trading card company outside of Dallas, Texas, and finally to Bristol, Connecticut: the home of ESPN.
+
+----
+
+Interview:
+
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    As fate would have it, the term graphic
+    design was introduced to me by an issue
+    of Teen Vogue magazine.
+  citation: ""
+- 
+  type: qa
+  question: The Small Town Girl
+  answer: >
+    I am from Childersburg, Alabama, where
+    sports are often the only
+    extracurricular activities available.
+    When people ask where I’m from, I
+    usually ask if they know basketball
+    player Gerald Wallace—he’s our
+    town’s claim to fame. I spent most of
+    my childhood playing basketball, which
+    is where my love of sports originated.
+    Back then, I would volunteer to design
+    our class shirts and even produced my
+    senior class video.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What have you produced in your design
+    career?
+  answer: >
+    Over the years, I have produced a wide
+    variety of work, including social
+    content, recruiting material targeted
+    toward high school athletes, and printed
+    products for a professional trading card
+    company. I enjoy working on social
+    platforms most because they allow you to
+    communicate a message to millions of
+    people with the click of a button.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    Is there anything you are currently
+    doing that people should know about?
+  answer: >
+    My proudest accomplishment isn’t a
+    specific design, but rather my social
+    handle and blog, @Trenches_. I started
+    it a few years ago to provide a resource
+    for creatives interested in the sports
+    industry. I often saw beautiful designs
+    online and wondered who was responsible;
+    Trenches provides a place for those
+    designers to come "out of hiding" and
+    connect. I actually met my current
+    Creative Director after he followed the
+    account. Since then, it has connected
+    designers from Nike, the NBA, the NFL,
+    The New York Times, Snapchat, Wired, and
+    more. It is my true claim to fame.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    Everyone goes through ups and downs.
+    What are some issues you wrestle with?
+  answer: "Dealing with rejection has been the biggest struggle of my career. I have applied for dozens of jobs that I didn't get, which at times made me doubt my abilities. However, design is extremely subjective. I had to learn that just because one person dislikes your work, it doesn't mean the work is bad. That realization motivated me to continually expand my skillset; I now make it a point to learn new techniques and programs as often as possible."
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    Hard work beats talent when talent fails
+    to work hard.
+  citation: ""
+- 
+  type: qa
+  question: What sets you apart from your peers?
+  answer: 'My favorite quote is: "Hard work beats talent when talent fails to work hard." I feel this mindset sets me apart. I am willing to work twice as hard as the next designer to stay ahead of the game—even if that means staying late to perfect a design long after everyone else has gone home.'
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What has your experience been as a
+    person of color in the design industry?
+  answer: >
+    I have often been the only African
+    American in my design classes or at my
+    jobs. It can be isolating, but I’ve
+    had the opportunity to work with great
+    people who make me feel included. Still,
+    it helps to see people who look and
+    speak like you. I would love to see more
+    women and people of color enter the
+    industry.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How can design be more accommodating to
+    underrepresented populations?
+  answer: >
+    There is a lack of awareness regarding
+    the importance of design in these
+    communities. The industry can become
+    more accommodating simply by increasing
+    exposure. I am a firm believer that
+    knowledge is power, but one cannot know
+    what they cannot see.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    I am a firm believer that knowledge is
+    power, but one cannot know what they
+    cannot see.
+  citation: ""
+- 
+  type: qa
+  question: What are you working on right now?
+  answer: >
+    I am currently working on a Super Bowl
+    piece for our Snapchat Discover edition
+    that compares the statistics of the two
+    starting quarterbacks.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    Where do you see yourself in 5 to 10
+    years?
+  answer: >
+    I love being a "designer in the
+    trenches," but in the future, I would
+    like to transition into the role of a
+    design influencer, Creative Director, or
+    Producer. I desire the creative control
+    that comes with those positions. Also, I
+    have always dreamed of working at Nike;
+    if I end up there in the next ten years,
+    my life would be complete.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What advice would you give to those from
+    similar backgrounds?
+  answer: >
+    It is not always about what you know,
+    but who you know. The design world can
+    be surprisingly small. Making
+    connections through social media and
+    networking events is vital to getting
+    your foot in the door. You may produce
+    great work, but if no one knows your
+    brand, it is hard to break in. Use
+    social media as a tool to get eyes on
+    your work and don’t be afraid to ask
+    for feedback. Many Creative
+    Directors—including my own—use
+    social media to find and hire new
+    talent.
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://wnzpwm9fmnejl4si
+
+----
+
+Selected-works:
+
+- file://ebc2plmqgyykvwuc
+- file://vxnuwlax8ztmmp4e
+- file://lh5vwxa3noi5kd00
+- file://mntbuvl0wadbwbbg
+- file://4bxo03nt95qsucnv
+- file://kv87v6gq7d41elhx
+
+----
+
+Job-title: Designer, ESPN
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: prfbhmkpardpexwu

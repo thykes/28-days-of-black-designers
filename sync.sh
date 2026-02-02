@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configuration - EDIT THESE
-SSH_USER="your-app-user"
-SSH_HOST="deploy.fortrabbit.com" # or your remote IP
+SSH_USER="28blacks.wexp8hljbgovdmvx"
+SSH_HOST="deploy.us1.frbit.com"
 REMOTE_ROOT="~/htdocs" # standard fortrabbit path might vary, check docs
 LOCAL_ROOT="$(pwd)"
 

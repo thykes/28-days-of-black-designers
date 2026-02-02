@@ -1,0 +1,210 @@
+Title: Justin Garrett Moore
+
+----
+
+Day: 2
+
+----
+
+Role: Urban Designer • Urban Planner
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/justingmoore/
+
+----
+
+Twitter: https://twitter.com/jgmoore
+
+----
+
+Instagram: https://www.instagram.com/j.g.moore
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Urban Designer • Urban Planner
+
+----
+
+Intro: Justin Garrett Moore is an urban designer and the executive director of the NYC Public Design Commission. He has extensive experience in urban planning and design—from large-scale urban systems, policies, and projects to grassroots and community-based planning, design, and arts initiatives. At the Public Design Commission, his work focuses on prioritizing quality and excellence for the public realm, while fostering accessibilit1y, diversity, and inclusion in public buildings, spaces, and art. He is a member of the American Planning Association, the Urban Design Forum, Next City’s Vanguard, and Columbia University GSAPP's adjunct faculty, as well as a co-founder of Urban Patch.
+
+----
+
+Text:
+
+I was born and raised in Indianapolis, the youngest of three boys. The term has become prevalent again, but we lived in the quintessential American "inner city"—in a predominantly Black and low- to moderate-income neighborhood on the city's north side. Our family was more middle class, and I remember my mom saying, "We aren't going anywhere," when we'd ask why we couldn't just move out to the "nicer" neighborhoods. While Indianapolis has a relatively diverse population, my world was a Black world most of the time, and I went to predominantly Black public schools.
+
+It seemed as though things became progressively worse during my coming-of-age years. There were increases in both crime and vacancy, and the quality of public institutions, services, and businesses declined. In 1995, what they called a "mini-riot" broke out in my neighborhood as people in my community protested police violence. During that time in my life, I remember being very aware of how "broken" things were for Black people and their communities.
+
+----
+
+Interview:
+
+- 
+  type: qa
+  question: >
+    How did you first get interested in
+    design?
+  answer: >
+    I was interested in design at a very
+    early age. My older brother Jason and I
+    used to draw and design cars when we
+    were kids. When I was bored in
+    school—which was common—I would draw
+    maps of made-up buildings and cities. I
+    formally got into architecture through
+    an MWBE-initiated program in
+    Indianapolis started by construction
+    management company owner Jimmy Beard. He
+    required that firms with major contracts
+    with the public school system take on
+    minority summer interns. When I was a
+    freshman in high school, my school was
+    slated for a new gymnasium addition.
+    Through that program, I secured a
+    full-time summer internship at CSO
+    Architects, the firm awarded the design
+    contract. Over twenty years later, both
+    of us from that summer internship
+    placement still work in the design
+    field.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: "Tell me about the work you've done?"
+  answer: |
+    I am an urban designer and the executive director of the New York City Public Design Commission. At the Commission, my work is focused on prioritizing the quality and excellence of the public realm and fostering accessibility, diversity, and inclusion in the City’s public buildings, spaces, and art.
+    
+    Before moving to the Design Commission, I was a Senior Urban Designer for the NYC Department of City Planning. For over a decade, I was responsible for conducting complex urban design plans and studies regarding the physical design and utilization of sites, including infrastructure, public spaces, land use patterns, and neighborhood character. My projects included the Greenpoint and Williamsburg Waterfront, Hunter’s Point South, the Coney Island Plan, and the Brooklyn Cultural District. I received degrees in both architecture and urban design from Columbia University’s GSAPP, where I am now an Adjunct Associate Professor.
+    
+    I am also the co-founder of Urban Patch, a social enterprise based in Indianapolis that focuses on community revitalization and design in American inner cities. My professional affiliations include the American Institute of Certified Planners, the Urban Design Forum, and Next City’s Vanguard. I also serve as a board member for ioby.org, Mary Miss—City as Living Laboratory, and Made in Brownsville.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    My work is focused on prioritizing the
+    quality and excellence of the public
+    realm, and fostering accessibility,
+    diversity, and inclusion in the City’s
+    public buildings, spaces, and art.
+  citation: ""
+- 
+  type: qa
+  question: >
+    What are your proudest accomplishments
+    of your career?
+  answer: |
+    They take different forms. First is the satisfying feeling of visiting a place I helped design, seeing people enjoy it, and knowing my work has a lasting impact on people's lives. Whenever I fly into New York, I get a kick out of being able to point to a part of the map and say, "I designed that part of New York City."
+    
+    Second is my role as an educator. I am always proud when a former student—or even someone I don't know—tells me that I have been a positive influence. Finally, moments of recognition provide "wind for the sails." I was honored to be recognized as a leader and innovator at Barack Obama's White House South by South Lawn festival last fall; that remains a highlight of my career.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What have been your biggest struggles of
+    your career?
+  answer: "Finding a workable balance. Urban design is by nature interdisciplinary and scattered. There isn't always a clearly-defined path or framework for how to progress and make the most impact. It is also challenging to promote interests that are often not a priority for those in positions of power. It can be frustrating to raise an issue that speaks to your values only to be dismissed or told it isn't relevant."
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    I think there needs to be more diversity
+    and paths of entry and opportunity,
+    i.e., education, business,
+    decision-making, and leadership
+    opportunities, for people from a broader
+    variety of backgrounds.
+  citation: ""
+- 
+  type: qa
+  question: >
+    What would you like to see changed about
+    the design field?
+  answer: >
+    I think there needs to be more diversity
+    and clearer paths of
+    entry—specifically in education,
+    business, and leadership—for people
+    from a broader variety of backgrounds.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are you working on right now?
+  answer: "At the Public Design Commission, I'm working on an improved design review process to increase the quality of new affordable housing developments. At Columbia, I am helping to develop the Hudson Valley Initiative, which uses design research to improve places like Newburgh and Poughkeepsie. With Urban Patch, we are continuing our community improvement projects, like the Indy Redbud Project tree-planting initiative. I have also been working to promote the #BankBlack movement through the @bankblackusa campaign."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    Where do you see yourself in 5 or 10
+    years?
+  answer: >
+    I hope to continue my work in design and
+    education, but it is important to me to
+    remain a "doer" and stay connected to
+    real work in communities. I want to grow
+    as a design leader who can bridge the
+    gap between our profession and other
+    fields like policy, economic
+    development, and the sciences.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    Lastly, what advice would you give to
+    folks from similar backgrounds?
+  answer: >
+    Look for opportunities to connect with
+    others who share your interests and
+    people whose work you find valuable.
+    Continually build your professional
+    exposure and your portfolio to grow your
+    skills and your voice as a designer.
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://x3fansjor0nqvnbl
+
+----
+
+Selected-works:
+
+- file://tovesi0ruli3v7jo
+- file://xjxpc0dgzck9kitj
+- file://z2mmr3d8yd3etynw
+
+----
+
+Job-title: Executive Director, NYC Public Design Commission
+
+----
+
+Interview-intro: I was born and raised in Indianapolis, and am the youngest of three boys. The term has become prevalent again, but we lived in the quintessential American "inner city" -- in a predominantly black and low- to moderate-income neighborhood on the city's north side. Our family was more middle class, and I remember my mom saying "we aren't going anywhere" when we'd ask why we couldn't just move out to the 'nicer' neighborhoods. While Indianapolis has a relatively diverse population, my world was a black world most of the time, and I went to predominantly black public schools. It seemed as though things became progressively worse during my coming-of-age years. There were increases in both crime and vacancy, and the quality of public institutions, services, and businesses declined. In 1995, what they called a 'mini-riot' broke out in my neighborhood as people in my community protested against police violence. During that time in my life, I remember being very aware of how 'broken' things were for black people and their communities.
+
+----
+
+Uuid: tw8gfleyzguaapeq
