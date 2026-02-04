@@ -1,0 +1,183 @@
+Title: Shanee Benjamin
+
+----
+
+Day: 4
+
+----
+
+Role: Digital Designer
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: 
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Designer, Visualist, Creative Thinker
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+**I was born on Long Island and lived in Brooklyn until my pre-teen years. **As an only child, I grew up quite shy, so creativity became my primary mechanism for entertaining myself. My family is from Bed-Stuy and Jamaica, Queens; being raised by Black American parents in that environment deeply influenced my NYC identity.
+
+In 2002, after my parents split, my mom and I moved to Southern Maryland. It was a total culture shock. I went from classrooms filled with children of color to being one of maybe three or four in the entire room.
+
+**I was always an artistic child. **I loved painting and crafts, but my real passion was collecting magazines. I kept everything: Nickelodeon Magazine, Kid City, Highlights, Zoo Animals. As a teen, that evolved into stacks of Elle Girl, Teen Vogue, Seventeen, and J-14. I originally went to college for Stage & Set Production, but during my second semester, I took a graphics class. That summer, I went home, looked at my massive magazine collection, and realized I was in the wrong major. I officially switched to Design the following year.
+
+----
+
+Interview:
+
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    Creativity was my primary mechanism for
+    entertaining myself—I went from
+    collecting Nickelodeon Magazine to
+    studying the layouts of Teen Vogue and
+    Elle Girl.
+  citation: ""
+- 
+  type: qa
+  question: >
+    Most of my work is rooted in marketing
+    for entertainment and fashion.
+  answer: |
+    I’ve worked with recognizable names like AFROPUNK, NBC Universal, and HBC, alongside years of freelancing in real estate and beauty. Since 2014, I’ve run a freelance business offering "360 design" packages: branding, web design, social assets, animation, and print.
+    
+    In my personal time, I create digital illustrations specifically centered on prominent Black female figures. My professional work is traditionally marketing-heavy, while my personal work is more illustrative and experimental.
+    
+    While in college, I also developed a love for photography. I’m trained in both analog and digital processes. Though design takes up most of my time now, I still view illustration through the lens of portrait photography. I’m always looking for new models to collaborate with on new concepts.
+    
+    Currently, I’m developing an iOS app called "Merci." The goal is to connect local Black-owned businesses with their community through social profiles. It’s in the early stages—I’m currently conducting UX research and mapping out businesses in the Crown Heights area of Brooklyn
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: 'Accomplishments & Representation'
+  answer: |
+    I’m very proud of being hired by NBC Universal just two years out of college. While the environment wasn't the right long-term fit for me, I’m grateful for the experience of working alongside some of the best Creative Directors and VPs in television. I’m also proud of my freelance business. I used to doubt myself as a designer, but when clients keep coming back, you realize you’re doing something right.
+    
+    In most companies, I am one of maybe two Black designers—and almost always the only Black woman. I wouldn’t call that an "accomplishment" so much as a testament to my resilience. I am proud of how I navigate whiteness in the workspace. It can be discouraging, but I never lose sight of my goals. I won’t let anyone take that from me.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: 'Challenges & The Industry'
+  answer: |
+    The biggest struggle is breaking out as an emerging artist while keeping up with the breakneck speed of technology. Every few months, there’s a new trend or a piece of software that promises to make your work better. It’s a lot of labor to stay current, but as a designer, it’s non-negotiable.
+    
+    Design is often an "all-white boys club." Sometimes it feels like my skills are undervalued because the industry is built on Eurocentric principles. Many Black designers move away from the "Swiss look" to create something new, yet higher-ups often have a bias, assuming white or Asian designers will "do it better." There is also a glass ceiling; I don’t see many Black Senior Designers or Art Directors. We need to bridge that gap from mid-level to leadership.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: The Love of Design
+  answer: 'What I love most are the endless possibilities. I love opening Photoshop, staring at a blank canvas, and seeing what emerges. There’s a specific power in taking total ownership of a piece—creating the textures, the typography, and the imagery from scratch. I love the "happy accidents" that bring a project together. Unlike fine art, design has a specific purpose: to communicate. It allows me to use both the Type A and Type B sides of my personality.'
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: Visions for Change
+  answer: >
+    I want to see an honest evaluation of
+    POC design aesthetics. We need college
+    courses on Black graphic designers and
+    our influence on the industry. I’d
+    love to see the development of an
+    official "Black style" of
+    design—similar to the recognition
+    given to Swiss Design. We also need more
+    women in leadership and better access to
+    technology in schools. I graduated in
+    2013, and I’ve had to teach myself
+    many of the tools that students are just
+    now being introduced to.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    To make design more accommodating, we
+    need to
+  answer: |
+    - **Practice better hiring policies:** If your team isn't diverse, fix it.
+    - **Invest early: **Push design in high schools and get kids interested in the tools early.
+    - **Provide resources: **Offer monetary support and internships specifically for POC who have the passion but lack the access to expensive design schools.
+    - **Build a Database:** A collective of high-quality POC designers for companies to source from would eliminate the "we can't find anyone" excuse.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    In ten years, my creative agency, Noire,
+    will have fully launched. Design is my
+    life—minimalism is the principle I
+    live by.
+  citation: ""
+- 
+  type: qa
+  question: Looking Ahead
+  answer: |
+    Where do I see myself in 5 to 10 years? Still in design—HELL YES. Design is my life; minimalism is what I live by. In five years, I see myself as a Senior Designer or Associate Art Director. In ten years, I plan to be working for myself exclusively, having fully launched my creative agency, Noire.
+    
+    My advice to high school students? Make connections. Get your work on social media and get eyes on it. Learn to take criticism and use it to grow. Word of mouth is powerful—never underestimate it.
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://f01dfkfwvxk1ayk3
+
+----
+
+Selected-works:
+
+- file://vbyqzlnomufukjxx
+- file://fau8w30jnphseoyk
+- file://14ya7mmhxl5q9kz0
+- file://lvdkgrgqdtw6dumu
+- file://1jv1xzzybfto0ud2
+- file://becdhplqf3n1ce47
+
+----
+
+Job-title: Digital Designer
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: nqbns7tp6tikqnpv
