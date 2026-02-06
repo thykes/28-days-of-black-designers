@@ -1,0 +1,184 @@
+Title: Earnest (Ej) Maxwell, Jr
+
+----
+
+Day: 6
+
+----
+
+Role: Student, Bachelor of Architecture, Pratt Institute
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: https://twitter.com/EJoverlord
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Architecture Student
+
+----
+
+Intro: I am a first-year student in the highly touted Bachelor of Architecture program at Pratt Institute. I aspire to begin a minor in Film my second year. Aside from schooling, I am working alongside a fellow talented young brother at SCAD, Chad Roby, to create an immersive, experience-based design agency that showcases the work of recruited young artists and designers, but also offers their services as a group for creative endeavors of potential clients. Our first client approached us for creative direction of a clothing brand '1222 Austin', which I led the charge on, drafting the tech pack, designing the successive palettes, sourcing materials, and in post production, designing the client's website, doing product photography, and the lookbook.
+
+----
+
+Text: I am a first-year student in the Bachelor of Architecture program at Pratt Institute, with plans to minor in Film starting my second year. Beyond my studies, I am partnering with Chad Roby, a talented designer at SCAD, to launch an immersive, experience-based design agency. Our agency serves a dual purpose: showcasing the work of recruited young artists and providing comprehensive creative services for external clients. I recently led our first major project for the clothing brand '1222 Austin,' where I headed creative direction, drafted the tech pack, designed successive color palettes, sourced materials, and managed post-production, including product photography, the lookbook, and website design.
+
+----
+
+Interview:
+
+- 
+  type: qa
+  question: A Product of Many Social Environments
+  answer: |
+    I was born in Houston, Texas, to a father with a background in engineering and a mother with a background in accounting. During my formative years, I moved frequently. Within two years of my birth, we moved to Fairbanks and then Anchorage, Alaska. On my seventh birthday, I moved to Irvine, California. At nine, I moved to Baton Rouge, Louisiana, and then for my freshman year of high school, to New Orleans.
+    
+    Because of this, it has been difficult to hone an "authentic" home identity; I often describe myself as a product of many different social environments. With my mother’s family hailing from rural Louisiana and New Orleans, and my father’s side from rural Mississippi, the South is where I truly feel at home.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How did you first get interested in
+    design?
+  answer: |
+    I began creating art as a child to represent my thoughts and observations nonverbally. The sights I encountered during my early childhood in Alaska sparked a curiosity that my young mind processed best through drawing.
+    
+    Eventually, I had to process the news of my mother’s breast cancer diagnosis. During this time, design became a central pillar of my life. I began to understand design as an experience rather than a discipline, a shift that is still reflected in my work. I design to express my voice and exhibit my background within the context of the human condition.
+    
+    Halfway through my sophomore year, I attended the New Orleans stop of Kanye West’s "Yeezus" tour. Reflecting on that concert, I realized the power of a well-executed sonic and visual experience. The set was beautifully designed, featuring a mountain with a circular LED mass floating above it that cycled through a narrative: Fighting, Rising, Falling, Searching, Finding. West donned a series of bejeweled masks. I wondered why he would set aside his identity but quickly realized it was for something bigger than his ego; it was for expression. The show felt more like a night at the opera than a concert, full of Catholic imagery—the crucifix, the Virgin Mary—juxtaposed with pyrotechnics and anonymous, robed figures.
+    
+    I distinctly remember the song "Hey Mama." He had written it before his mother passed as a tribute to her. During the performance, Kanye fell to his knees—a fallen star. I thought back to the day my own mother died. West didn't even sing the lyrics; he let the instrumental run. I felt a chill of reverence and nostalgia. That moment brought me back to my childhood, sitting on a high stool by the counter asking my mother a myriad of questions and drawing out her answers. I credit that moment with my new beginning and my distinct regard for expression. Knowing I had a vision and a foundation in graphic design, I made the conscious decision to transform that negative energy into a lifelong pursuit: architectural design.
+    
+    My voice is my most valuable asset. Winston Churchill once said, "We shape our buildings; after that, they shape us." As people occupy a space, they take on the quality of that space. I see architecture as a poetic mesh of the indefinite nature of art and the practical natural world. Design surrounds me in my quotidian life—from the spaces I inhabit to the water bottles I use. I am developing a sense of spatial reasoning and learning to connect universal consumer principles with product design. Design is all around us; one cannot escape it, but rather choose whether or not to recognize its implications.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: Tell me about the work you’ve done.
+  answer: |
+    As a student, much of my work has been curriculum-based. However, I believe in deconstructing the curriculum so that my work exists as its own entity rather than a mere assignment. Most recently, I spearheaded the creative direction for the Austin-based clothing project '1222.' I have also produced a series of low-poly images exploring the concept of a "hero" through different lenses, portraying my father (blood), Kanye West (fame), and my colleague Karryl Eugene (friendship).
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are your biggest motivators?
+  answer: |
+    My biggest motivators are the ones I love. Many people claim "haters" motivate them, and while being the underdog is inspiring, I’ve learned that genuine relationships are the most important thing we can hold onto. I want to shine for my late mother. I want to shine for my cousin Rod, who was arrested just two days after surprising me at my graduation. I want to shine for my paternal grandmother, who raised seven children almost entirely on her own in rural Mississippi in the mid-20th century. If you aren't making an impact on the people who walked so you could run, you're losing.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How do your friends and family feel
+    about your work?
+  answer: |
+    They are supportive but inquisitive. Most of them aren't well-versed in the field, and it can be frustrating when people view design training as "economically unproductive." My family has been wary of the economic outcome of my studies, which is a fair concern, but they remain supportive.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What do you love most about working in
+    design?
+  answer: >
+    I love the process. People often focus
+    on the finished product without
+    regarding how it got there. Good design
+    makes a product feel intuitive, but the
+    operations required to reach that
+    point—the meticulous documentation and
+    review—are where the beauty lies. Once
+    you are clocked into this frame of mind,
+    you see the world in a visually logical
+    manner that is hard to escape.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How can design be more accommodating to
+    underrepresented populations?
+  answer: "Design needs better outreach. There isn't enough exposure for young people in marginalized communities to see design as a viable path early in life. The field can often seem elitist from the outside, so we must work toward community outreach on a much larger scale."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are you working on right now?
+  answer: >
+    I am currently preparing to launch the
+    website for my design agency and
+    beginning production on a short film. In
+    school, I’m studying section cuts in
+    objects for my Representation class, and
+    I’m very happy with how my drawing
+    sets are turning out.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    Where do you see yourself in 5 or 10
+    years?
+  answer: >
+    I see myself practicing in the field,
+    though perhaps leaning more toward
+    furniture and lighting design rather
+    than a traditional firm-based
+    architecture practice. My long-term goal
+    in architecture is to bring affordable,
+    sustainable design to public housing,
+    creating beautiful environments that are
+    conducive to productivity for the
+    inhabitants.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What advice would you give to folks from
+    similar backgrounds?
+  answer: "Go for it and never look back. Design is becoming a paramount route for our society. You don't need the most expensive equipment to start; the beauty of design is that it lives within us as an innate tool. Become a student of the world, consider societal problems as you walk down the street, and use design as the apparatus for the solution."
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://oaez4mtigfh74qy3
+
+----
+
+Selected-works:
+
+- file://usaexrxptlpnuaz0
+- file://pkulrupwzgwbr6rw
+- file://xvzxyn3oyltihlb8
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: 6hstvmudtrn0rnmu
