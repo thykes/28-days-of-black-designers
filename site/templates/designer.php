@@ -1,4 +1,56 @@
 <?php snippet('header') ?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "<?= $page->title()->js() ?>",
+  "url": "<?= $page->url() ?>",
+  "image": "<?= ($cover = $page->cover()->toFile()) ? $cover->url() : '' ?>",
+  "jobTitle": "<?= $page->role()->js() ?>",
+  "description": "<?= $page->text()->excerpt(160)->js() ?>",
+  "memberOf": {
+    "@type": "Organization",
+    "name": "28 Days of Black Designers",
+    "url": "https://www.28blackdesigners.com"
+  },
+  "sameAs": [
+    "<?= $page->website() ?>",
+    "<?= $page->linkedin() ?>",
+    "<?= $page->twitter() ?>",
+    "<?= $page->instagram() ?>",
+    "<?= $page->bluesky() ?>"
+  ]
+}
+</script>
+
+<?php if ($page->interview()->isNotEmpty()): ?>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        <?php
+        $items = $page->interview()->toStructure();
+        $questions = [];
+        foreach ($items as $item) {
+            if ($item->type() != 'quote' && $item->question()->isNotEmpty() && $item->answer()->isNotEmpty()) {
+                $questions[] = [
+                    "@type" => "Question",
+                    "name" => $item->question()->value(),
+                    "acceptedAnswer" => [
+                        "@type" => "Answer",
+                        "text" => $item->answer()->kirbytext()->value()
+                    ]
+                ];
+            }
+        }
+        echo json_encode($questions, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+        ?>
+      ]
+    }
+    </script>
+<?php endif ?>
 <main class="max-w-[1300px] mx-auto py-24 px-6 lg:px-12">
     <section class="mb-32">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-16 items-start">

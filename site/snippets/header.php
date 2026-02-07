@@ -5,18 +5,64 @@
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2Z49V87J8"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-      gtag('config', 'G-J2Z49V87J8');
+        gtag('config', 'G-J2Z49V87J8');
     </script>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta name="author" content="Tim Hykes" />
+    <meta name="description" content="<?= $page->description()->or($site->description()) ?>" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="<?= $page->url() ?>" />
+    <meta property="og:title" content="<?= $page->title() ?> — <?= $site->title() ?>" />
+    <meta property="og:description" content="<?= $page->description()->or($site->description()) ?>" />
+    <?php if ($image = $page->cover()->toFile()): ?>
+        <meta property="og:image" content="<?= $image->url() ?>" />
+    <?php elseif ($image = $site->image()): ?>
+        <meta property="og:image" content="<?= $image->url() ?>" />
+    <?php endif ?>
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="<?= $page->url() ?>" />
+    <meta property="twitter:title" content="<?= $page->title() ?> — <?= $site->title() ?>" />
+    <meta property="twitter:description" content="<?= $page->description()->or($site->description()) ?>" />
+    <?php if ($image = $page->cover()->toFile()): ?>
+        <meta property="twitter:image" content="<?= $image->url() ?>" />
+    <?php elseif ($image = $site->image()): ?>
+        <meta property="twitter:image" content="<?= $image->url() ?>" />
+    <?php endif ?>
+
     <title>
         <?= $page->title() ?> —
         <?= $site->title() ?>
     </title>
+
+    <?php if ($page->isHomePage()): ?>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "28 Days of Black Designers",
+          "url": "https://www.28blackdesigners.com",
+          "logo": "https://www.28blackdesigners.com/assets/images/logo.png",
+          "founder": {
+            "@type": "Person",
+            "name": "Tim Hykes"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/28-days-of-black-designers",
+            "https://www.twitter.com/28blackdesigners",
+            "https://www.instagram.com/28blackdesigners"
+          ]
+        }
+        </script>
+    <?php endif ?>
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&amp;family=Playfair+Display:ital,wght@0,700;1,700&amp;display=swap"
@@ -37,7 +83,7 @@
                         "sub-purple": "#843b62",
                         "dark-purple": "#621940",
                         "body-text": "#F67E7D",
- // Legacy/Home Mappings (Aliases)
+                        // Legacy/Home Mappings (Aliases)
                         "brand-dark": "#0b032d",
                         "brand-pale": "#FFB997",
                         "brand-coral": "#F67E7D",
