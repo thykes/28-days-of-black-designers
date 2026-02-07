@@ -1,0 +1,233 @@
+Title: Timothy Bardlavens
+
+----
+
+Day: 7
+
+----
+
+Role: User Expereince Designer
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: https://twitter.com/iThink_iDesign
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: User Expereince Designer
+
+----
+
+Intro: 
+
+----
+
+Text: Timothy Bardlavens is "the black guy." With a career trajectory that has seemed to move at light speed, he has grown from a Graphic Administrator at a trophy shop to a Sr. Director of Creative and UX in a little under five years. His passions can be narrowed down into five simple categories: diversity & inclusion, digital design, leadership/mentoring, design thinking & research, and houseplants. Within these five lie a plethora of sub-categories, talents, focuses, eccentricities, and oddities. At Microsoft, his work is focused on the future of product and product innovation, in addition to working within the organization to understand and improve its diversity and inclusion practices.
+
+----
+
+Interview:
+
+- 
+  type: qa
+  question: From a family of four to seven
+  answer: "I'm originally from Columbia, SC, by way of Greensboro, NC. For a solid part of my life, my two older siblings and I were raised by my divorced mother in a household that never made over $30,000 per year. When she remarried, that increased to about $48,000, but also increased the household size from four people to seven; needless to say, we didn't have much. Columbia wasn't a creative town—there was only one design firm that serviced the entire city, and there was nothing there to inspire me artistically growing up. To be honest, I never cared for art; my brother, sister, and mother knew how to draw or paint, but I was the writer. That was my love: poetry and short stories."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How did you first get interested in
+    design?
+  answer: |
+    Originally, I never cared about design; I wanted to be a writer. My goal was to be Editor-in-Chief of Jet magazine. Even when I made Graphic Design my minor, it was a means to an end; I figured I needed to learn about magazine layouts. What really got me into design was when I was an English Major in undergrad and received an opportunity to work in the Office of Student Activities as a student assistant.
+    
+    My supervisors were these two BBWs (beautiful black women): Mrs. Dee, the Administrative Assistant, and Mrs. Diane, the Fiscal Technician. They saw something in me that, at the time, I didn't see. They took me under their wing, taught me that my jokiness was a defense mechanism, and showed me I had more to offer than what I presented. They focused me, and I credit a lot of my success to the grace of God for placing them in my life. I was given the opportunity to create posters, digital boards, and HTML emails for campus events; I would stay in the office until 2:00 or 3:00 am—sometimes never leaving—just creating. I was addicted. By the second semester of my junior year, I'd switched my major from English to Design. I immersed myself so deeply that I would skip any class other than my design courses, and I had to "bury" family members several times to maintain my 3.3 GPA.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: "Tell me about the work you've done."
+  answer: "I've done so much in such a short amount of time! I've held roles ranging from a simple Graphics Administrator doing prepress and production design for a trophy company in Columbia to, most recently, being a Sr. Director of Creative and UX at a newly acquired startup in Dallas. I've worked within various industries, from a dental manufacturing company as a sole designer to major corporations such as Capital One and now Microsoft. My experience spans everything from trade-show and display design to brand marketing to product design and UX. I've done a lot, but I've found my niche in UX. There's something so fascinating about human behavior—how people experience products, how we can affect that experience, and the relationship between cognition and emotion. A large part of my work now is to understand and develop experiences that better influence intended behaviors."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are your proudest accomplishments?
+  answer: |
+    Every leap of faith I take is a proud accomplishment for me. Deciding to leave the comfort of the Carolinas and move 1,100 miles away to Dallas for a new job was a huge accomplishment because I stepped out of my comfort zone. When I felt I had more to offer than the opportunities presented to me and decided to pursue more challenges, that was big for me. Now, moving 2,100 miles away from newly developed friendships for another opportunity is another accomplishment. I believe I've been successful because I've never waited for a person to say, "You're ready." When I feel I'm ready for a new challenge, I go for it. Trust me, I'm ALWAYS scared, but I do it anyway.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: "...being a black man in Corporate America. There's this understanding that I'm not allowed to have a bad day or I'm seen as unapproachable—to be angry is to be dangerous."
+  citation: ""
+- 
+  type: qa
+  question: What have been your biggest struggles?
+  answer: |
+    I have two levels of struggle to deal with. On the surface, it's being a black man in Corporate America. There's this understanding that I'm not allowed to have a bad day, or I'm seen as unapproachable—to be angry is to be dangerous. Not every environment is like this, but there is an unspoken rule to approach things this way until you understand the mindset of the organization and how true to yourself you can be within it.
+    
+    The second struggle is being a gay man. There are usually a few types of people you run into if you're found to be gay within a company. Some assume you're gay, which is a bit insulting on some level. There is a consistent discomfort that a bigot might be in your midst. Then there are the "too friendly" types who want to know "how you do it," or ask "can you show me how to ___," or assume you love Beyoncé and have a pair of stilettos in the back corner of your closet. I remember being fearful of working for a Christian-based company because I didn't want to be judged and lose my job. I also remember being sexually harassed by a female co-worker who felt it was okay to send me pictures of half-naked men on motorcycles; I felt more uncomfortable than I’d ever felt.
+    
+    What I've found interesting is that once some people find out I'm gay, I'm seen less like the "black guy" and more like the "gay guy"—until there is a disagreement or I have a bad day. Then I revert back to the "black guy." As I've advanced, I've learned how to navigate these issues, but they remain eye-opening for a young, gay, black professional.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are you doing that sets you apart?
+  answer: |
+    I believe the most interesting thing I'm doing now relates to my thesis. While pursuing my Master of Fine Arts in Visual Communication, I chose a topic out of great frustration: Vote Rationally, Vote Intelligently, Just Vote: An Application to Address Uninformed Voting and Voter Apathy. This topic came from my lack of understanding regarding:
+    
+    1. Trump supporters.
+    3. Why people were "Feeling the Bern."
+    5. Why people weren't voting.
+    
+    It made no sense why people cared more about how they felt than what was logical. A large portion of my research is on the psychology of politics and how emotions drive actions. My goal is to understand if there is room for rational thought in politics or if it is purely a game of emotions. Ultimately, the product of my research will be a strategy to better inform voters and encourage participation, especially in local and state elections.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How can design be more accommodating to
+    underrepresented populations?
+  answer: "I think design could be more welcoming in its outreach to marginalized people. There isn't nearly enough exposure for young people in our communities interested in design early in life. The field should work toward community outreach at a greater scale. People should be introduced to design by professionals in the field, which can sometimes seem very elitist from the outside looking in."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What has your experience been as a
+    person of color in the design industry?
+  answer: "I've felt like a black ink dot on a very white piece of paper. It's a crass way to put it, but true nonetheless. However, I will say the industry is wonderfully accepting; I never felt more at home than when I was at the AIGA Leadership Retreat. I never felt more love from like-minded professionals than when meeting leaders like Julie Anixter, Antionette Carroll, and many others. Yet, being a black designer at times feels like being a female mechanic—you know you have the skills, but you deal with imposter syndrome and find yourself working harder to prove your worth to your peers."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are your biggest motivators?
+  answer: >
+    Secretly, I took a page from a Beyoncé
+    interview. She said her biggest
+    competition was herself; she would study
+    her own successes and opportunities and
+    use those milestones for improvement.
+    Before seeing that, I was solely focused
+    on where I was compared to those around
+    me. I realized this kept me depressed,
+    jealous, and feeling like I was lagging.
+    Now, my only competition and motivator
+    is myself. How can I be a better me?
+    It’s cliché, I know, but being the
+    best me possible is what drives me.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How do your friends and family feel
+    about your work?
+  answer: "They're proud and happy for me. I don't think they truly understand what I do, but they see that I'm successful doing it."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What do you love most about working in
+    design?
+  answer: "I tell people all the time: I don't understand humans. Design helps me understand people on an intuitive and emotional level, and I find it fascinating. The greatest thing about design is that it's multidisciplinary. Strategy, business, product, research, and project management are all housed within design. It's so flexible that it's impossible to get bored."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What would you like to see changed about
+    the design field?
+  answer: "Outside of its gross lack of diversity? I'd love for the industry to be more civically engaged. We are visual communicators with a foothold in literally every industry, and yet when we choose to speak out, we always lean on posters. There is more we can do and say. We need to stop thinking solely about design and designers and start thinking about the community and the general populace. I've been in so many situations where I've asked: what about doing something for the good of the people, not just for designers?"
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: How can design be more accommodating?
+  answer: "Education and exposure. I didn't learn about graphic design until college. We MUST get into communities, host design camps, or participate in after-school programs—anything that will show underrepresented youth that this career is real, available, and lucrative."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are you working on right now?
+  answer: "Outside of my thesis, I'm doing more within organizational diversity and inclusion practices—creating strategies to improve what is already in place. My goal is to support Microsoft in its growing initiatives as well as assist outside organizations with their efforts."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    Where do you see yourself in 5 or 10
+    years?
+  answer: >
+    I will always be in design! In addition
+    to growth in the field, I see myself
+    teaching and speaking more. I feel many
+    speakers in the industry are invited to
+    speak on their portfolios rather than on
+    meaningful topics that advance the
+    industry. One of my largest goals is to
+    be one of the faces that helps inspire
+    and lead more people of color into this
+    industry.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What advice would you give to others
+    from similar backgrounds?
+  answer: |
+    Be patient with yourself, but don't wait for others to tell you you're ready. Don't be scared to take a leap of faith to reach your goals—failure is always an option, but getting back up is required. Also, NEVER compromise who you are due to the perceptions of others. I've found that by standing in my truth—by introducing myself as "the black guy," maintaining my sense of humor, and being willing to leave an organization that attempts to stifle my "me-ness"—I've led a far happier and more successful career.
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://opjdq83ec5fm674d
+
+----
+
+Selected-works:
+
+- file://7nmacllaaxt4xk6m
+- file://nxm6nwat0jink3bh
+- file://8hrtdzury0mpuqve
+- file://snzgcuvff68a2xzt
+
+----
+
+Job-title: Designer, Microsoft
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: 7mfrxo6kcequbnte
