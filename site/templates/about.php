@@ -1,4 +1,28 @@
 <?php snippet('header') ?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "dateCreated": "<?= $page->created()->toDate('c') ?>",
+  "dateModified": "<?= $page->modified('c') ?>",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "<?= $page->founder_name()->js() ?>",
+    "description": "<?= $page->founder_bio()->excerpt(160)->js() ?>",
+    "jobTitle": "<?= $page->founder_role()->js() ?>",
+    "image": "<?= ($image = $page->founder_image()->toFile()) ? $image->url() : '' ?>",
+    "sameAs": [
+      "<?= $page->founder_website() ?>",
+      "<?= $page->founder_linkedin() ?>",
+      "<?= $page->founder_twitter() ?>",
+      "<?= $page->founder_instagram() ?>",
+      "<?= $page->founder_threads() ?>",
+      "<?= $page->founder_bluesky() ?>"
+    ]
+  }
+}
+</script>
 <main class="flex-1">
     <section class="w-full pt-32 pb-40 px-6">
         <div class="max-w-4xl mx-auto text-center space-y-10">
