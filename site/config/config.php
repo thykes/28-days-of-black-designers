@@ -5,6 +5,7 @@ return [
     'panel' => [
         'install' => true
     ],
+    'bvdputte.kirby-autopublish.poorman' => true,
     'routes' => [
         [
             'pattern' => 'sitemap.xml',

@@ -9,7 +9,17 @@ fields:
   role:
     label: Role
     type: text
-    width: 3/4
+    width: 1/2
+  autopublish:
+    label: Auto Publish Date/Time
+    type: date
+    time: true
+    width: 1/4
+  autounpublish:
+    label: Auto Unpublish Date/Time
+    type: date
+    time: true
+    width: 1/4
   location:
     label: Location
     type: text
