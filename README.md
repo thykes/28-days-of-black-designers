@@ -26,6 +26,25 @@ A curated exhibition platform celebrating the contributions of Black designers, 
    ```
    Or point your MAMP/Herd document root to the `28black` folder.
 
+## ✨ Key Features
+
+### 📅 Post Scheduling
+
+Automatic publishing and unpublishing of content. Perfect for preparing Black History Month spotlights in advance.
+
+- **Plugin**: `bvdputte/kirby-autopublish`
+- **Usage**: Set a page to **Draft** and fill in the **Auto Publish Date/Time** in the Panel.
+- **Logic**: Uses "Poor Man's Cron" to check for scheduled tasks on every page load.
+
+### 🔍 SEO & Structured Data
+
+Optimized for visibility and rich results in search engines.
+
+- **Structured Data**: Implements [Google ProfilePage](https://developers.google.com/search/docs/appearance/structured-data/profile-page) JSON-LD on About pages.
+- **Sitemap**: Automated XML sitemap generation at `/sitemap.xml`.
+
+---
+
 ## 🛠 Automated TDD & Deployment Workflow
 
 This project uses a custom suite of scripts to ensure content integrity and safe deployments to **Fortrabbit**.
