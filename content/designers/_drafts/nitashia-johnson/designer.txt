@@ -1,0 +1,219 @@
+Title: Nitashia Johnson
+
+----
+
+Day: 8
+
+----
+
+Role: Designer, Educator, Photographer
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: https://twitter.com/nitashiajohnson
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Designer, Educator, Photographer
+
+----
+
+Intro: My name is Nitashia Johnson I graduated from Booker T. Washington High School for the Performing and Visual Arts in 2008 and went on to become a 2012 alumni of Texas Woman's University with my BFA that focuses on a concentration in design communication. I am a Graphic Designer at UT Dallas with an unwavering passion for art and photography. I'm also an alumni of the Master of Arts in Teaching (MAT) in Art + Design Education program at the Rhode Island School of Design. Part-time, I teach interactive design to college students at Texas Woman's University. Currently, I am working towards developing a community-based media arts program for High School teens in the inner city called The Smart Project. This after-school visual and media arts program will work with college mentors and high school students across North Texas.
+
+----
+
+Text:
+
+My name is Nitashia Johnson. I graduated from Booker T. Washington High School for the Performing and Visual Arts in 2008 and became a 2012 alumna of Texas Woman's University with a BFA in Design Communication. Currently, I am a Graphic Designer at UT Dallas with an unwavering passion for art and photography. I also hold a Master of Arts in Teaching (MAT) in Art + Design Education from the Rhode Island School of Design.
+
+In addition to my work at UT Dallas, I teach interactive design to college students at Texas Woman's University. I am also developing The Smart Project, a community-based media arts program for inner-city high school teens. This after-school program connects college mentors with high school students across North Texas to foster creative growth.
+
+----
+
+Interview:
+
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    Design is the way of the world; it’s
+    how we communicate, and that is
+    extraordinary when you think about it.
+  citation: ""
+- 
+  type: qa
+  question: >
+    How did you first get interested in
+    design?
+  answer: |
+    In junior high, an art teacher told me about Booker T. Washington High School for the Performing and Visual Arts in Dallas. She noticed my talent during my 7th-grade year and began helping me prepare for auditions.
+    
+    I was quite an introvert in middle school; I often stayed in her classroom during lunch and after school to create art and avoid social pressures. As we talked, I began expressing the struggles I faced at home and the hardships of growing up without parents. Moved by my story, she pushed me to refine my portfolio and urged me to research creative careers like graphic design. From that moment on, I knew I wanted to pursue design communication. I fell in love with the process, and through drive and dedication, I was admitted to the school where I began working toward my dreams.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What have been the biggest struggles of
+    your career?
+  answer: >
+    My biggest struggle was creating with
+    limited resources. For the first three
+    years of my career, I didn’t have the
+    equipment or software needed to produce
+    high-level designs. I’m not sure how I
+    managed, but I found a way to make it
+    work. I also lacked confidence early on,
+    but with the support of family and
+    friends, I’ve learned to believe in
+    myself.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What are you doing that sets you apart?
+  answer: >
+    I am developing The Smart Project, a
+    community-based media arts program for
+    inner-city teens in the Dallas-Fort
+    Worth area. The program uses visual art,
+    digital media, and technology to prepare
+    young artists for the future through
+    college access guidelines and a creative
+    readiness framework. Students tackle
+    projects based on a curriculum created
+    by my non-profit. It is different from
+    anything I’ve done before, but I’m
+    doing it from the heart to help the next
+    generation.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How can design be more accommodating to
+    underrepresented populations?
+  answer: "Design could be much more welcoming in its outreach to marginalized communities. There isn't enough exposure for young people early in life. The field should work toward community outreach on a larger scale. People in our communities should be introduced to design by professionals in the field, which can sometimes seem elitist from the outside looking in. I also believe the industry should focus on showcasing digital artists from a wide variety of cultural backgrounds."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What has your experience been as a
+    person of color in the design industry?
+  answer: |
+    I haven’t experienced many "vivid" mishaps, but I have felt the underlying tension. It’s often hard to notice roadblocks because they are indirect, making it difficult to point out specific bad intentions or judgment. At one point, I was nervous about attending interviews with my natural hair because people told me the world "wasn't ready for it." I eventually moved past those comments—they went in one ear and out the other. My personality shines bright, and I view my hair as a crown for my intellectual mind.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    My personality shines bright, so I just
+    think of my hair as a crown for my
+    intellectual mind.
+  citation: ""
+- 
+  type: qa
+  question: >
+    What do you love most about working in
+    design?
+  answer: >
+    I love the ability to create things that
+    serve a purpose. Design is the way of
+    the world; it’s how we communicate,
+    and that is extraordinary when you think
+    about it.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What would you like to see changed about
+    the design field?
+  answer: >
+    I would love to see more young creatives
+    branch out and create their own avenues.
+    Sometimes finding work is about who you
+    know, but if you are an independent
+    designer, you can be your own boss.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: "It is quite different from anything I've done... but I'm doing it to help students from the heart."
+  citation: ""
+- 
+  type: qa
+  question: What are you working on right now?
+  answer: >
+    In addition to The Smart Project, I am
+    creating a book that addresses colorism,
+    racism, and sexism, featuring the
+    stories and images of 14–20 women of
+    color.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What advice would you give to folks from
+    similar backgrounds?
+  answer: >
+    Do it! If you love it, go for it. If
+    something isn’t working, find a way to
+    make it work. Have confidence in
+    everything you do. You are awesome, and
+    the world needs driven designers like
+    you.
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://jvmcedfm75l97vtb
+
+----
+
+Selected-works:
+
+- file://i5cieztvfybbfew2
+- file://0tgw2hnbawx7ayco
+- file://edveyswe4vsxfnyx
+- file://xqnqmfj5xllbu9ll
+
+----
+
+Job-title: Design Educator, Texas Woman's University
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: 4ik9cli7ks22mxbg

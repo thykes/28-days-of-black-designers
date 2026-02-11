@@ -1,0 +1,234 @@
+Title: Ameer Suhayb Carter
+
+----
+
+Day: 9
+
+----
+
+Role: User Experience
+
+----
+
+Autopublish: 2026-02-09 00:00:00
+
+----
+
+Autounpublish: 
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: https://twitter.com/ATheSneakerHead
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: User Experience
+
+----
+
+Intro:
+
+Ameer is a multi-disciplinary designer that has been instrumental in large, international, multi-media ad campaigns, startup and Fortune 100 app launches, groundbreaking social innovation design, experimental fashion and exhibition art. In most social circles, he's commonly referred to as "the homie that does everything."  That has only made him busier—which may not always be a good thing.
+
+Jokes aside, he's passionate about policy, visual journalism, social design, volunteering and entrepreneurship and hopes to develop programs and environments to foster a new generation of "creative humanists."
+
+----
+
+Text:
+
+Ameer is a multi-disciplinary designer who has been instrumental in large, international, multi-media ad campaigns, startup and Fortune 100 app launches, groundbreaking social innovation design, experimental fashion, and exhibition art. In most social circles, he's commonly referred to as "the homie that does everything." That has only made him busier—which may not always be a good thing.   
+
+Jokes aside, he's passionate about policy, visual journalism, social design, volunteering, and entrepreneurship. He hopes to develop programs and environments to foster a new generation of "creative humanists."
+
+----
+
+Interview:
+
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: |
+    "nnnnn West Philadelphia, born and raised, in my bedroom where I spent most of my days, chilling out, drawing and tinkering all coolin' and getting in trouble doodling throughout school...
+  citation: ""
+- 
+  type: qa
+  question: The Black and Muslim Kid
+  answer: |
+    Anyway, outside of my terrible rendition of The Fresh Prince, I was an inquisitive and attentive kid (or that's what my mom would tell you). She loves to tell a story from when I was 6 months old: I was learning words and numbers, and I had about six cookies lined up in front of me. My parents wanted to see if they could trip me up, so my dad set a diversion while my mom took a cookie and realigned the rest so it looked like nothing was missing. I returned my attention to the cookies... and something was amiss.
+    
+    My parents gasped as I went to count them (like, "Holy sh*t, he's counting?!") and I looked at them like, "Yo, I know you took my cookie." I guess I was aware of my surroundings very early on. I probably butchered the story (sorry, Mom), but I can see why she likes telling it.
+    
+    My childhood was like any other kid's in middle-class America—except I'm Black and Muslim. In that sense, there was no Christmas; my parents were always looked at weirdly when we went out, and I caught on to microaggressions, feeling their pain as if it were my own. As an older brother, I felt a great responsibility to be a role model for my brother and my cousins. There's a good deal of nuance, but overall, I wouldn't change it for the world.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How did you first get interested in
+    design?
+  answer: |
+    I wanted to make comic books as a kid (my friend Nikolas Draper-Ivey has seen my work and wants me to draw so bad, but I haven't given in yet!) and that led me to DeviantArt. I saw that they used Photoshop, so I found a pirated version to learn about lighting, composition, and color. I soon found a book about web design in a library and Googled tutorials on how to make good-looking websites. That was the start of my self-discovery; I ended up on psdtuts and jumpstarted a semblance of a career in design.
+    
+    On the other hand, my parents got me involved with the UArts program in Philadelphia. My dad's friend (a painter) gave me pointers; a mentor from Singapore, Mark 'SBTG' Ong, gave me one of my first hard lessons on follow-up and passion; and my old mentors from the UPenn program Ase (Abdi Farah, Hayling Price, Anand Jahi, Isaiah Greene, and more) always told me to pursue art. I wouldn't be here without them, my family, and my friends. I had the natural inclination; they ensured I took it seriously.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: "Tell me about the work you've done?"
+  answer: |
+    Currently, I work as the Senior Mobile UX Designer for HCA's IT&S division in Nashville, TN. My job consists of developing groundbreaking medical applications for HCA's hospitals and clinics across iPhone, iPad, Apple TV, and Apple Watch with an operational and enterprise focus. I also took the lead in creating an open-source Mobile Design framework that is currently being deployed enterprise-wide.
+    
+    Before this, I was all over the place:
+    
+    - Interned at R/GA under the Nike client and helped launch six campaigns (including KD, Kobe, and LeBron sneakers).
+    - Started a design firm and launched 12 startups in partnership with DreamIT Ventures.
+    - Built an app featured in 95 countries (and failed miserably).
+    - Worked at Audible and launched Audible Channels.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What are the proudest accomplishments of
+    your career?
+  answer: >
+    Working with Nike and developing the
+    narrative for their World Cup campaign
+    was awesome, especially as an intern.
+    Also, launching a startup and failing. I
+    learned so much from that experience;
+    it’s been single-handedly responsible
+    for my upward mobility in corporate
+    jobs. Going from intern to Senior
+    Designer in two and a half years is
+    pretty lit.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What have been the biggest struggles of
+    your career?
+  answer: |
+    I’m a young dude. I’ll be 23 on Friday, February 10th, and it’s hard to be taken seriously sometimes. I like to dress comfortably. I wear dreadlocks with shaved sides. I embody a punk rock vibe that turns some people off.
+    
+    Yet, I run a design team and I’ve built companies. I feel like a seasoned vet, but the timeline looks "wrong" to others. I’ve had trouble finding the balance between personal expression and professionalism. At first glance, I look like a struggling artist, but when I speak, the conversation changes. Sometimes it doesn’t, though. I’ve had to enlist white friends to help me negotiate with business partners because sometimes that’s the only way I’ll win business. And it f*cking sucks.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: What sets you apart?
+  answer: "I am a design advisor for the Nashville Entrepreneur Center and work with the Project Music and Project Healthcare cohorts. In Nashville, this is a huge deal. There aren't many Black mentors, so we are working to bring more visibility to the EC and attract People of Color (POC) to pursue their business goals, creating an economic framework for success they can follow."
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: "POC have to painstakingly find an environment that speaks to us, if not, we're gonna be miserable. And since I started my design career, it's been pretty volatile ride emotionally."
+  citation: ""
+- 
+  type: qa
+  question: >
+    What has your experience been as a
+    person of color in the design industry?
+  answer: >
+    It’s all about the environment. If
+    you’re with people who speak to you
+    culturally, it’s amazing. At Audible,
+    the design team were "the homies." They
+    were 7–10 years my senior, but they
+    spoke my language. POC have to
+    painstakingly find an environment that
+    speaks to us; if not, we’re going to
+    be miserable. Since I started, it’s
+    been a volatile ride emotionally.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What do you love most about working in
+    design?
+  answer: 'Perspective. You see the world differently. Most design work is anthropological. Human factors, ergonomics, visual acuity, and spatial awareness all have one thing in common: people. Being able to see the person, the touchpoint, and how they interact with the larger picture is fascinating.'
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What would you like to see changed about
+    the design field?
+  answer: |
+    1. More than just recognition: We are the bedrock of culture. We need more of us in current companies, but we should also be forging our own. I’d love to see POC studios as big as R/GA or Wieden + Kennedy.
+    
+    2. Hiring practices: It’s annoying when you’re the only Black person on a team and you have to argue the value of a candidate who looks like you. We don't have enough of us in recruitment or leadership to make critical decisions. The way companies seek talent is outdated.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: "Why does it feel like I have to argue an insane amount of value a potential candidate could bring that looks like me, when it's not the case for anyone else?"
+  citation: ""
+- 
+  type: qa
+  question: >
+    How can design be more accommodating to
+    underrepresented populations?
+  answer: |
+    We have to be mobile and show it to them! I remember volunteering at an inner-city middle school. When we told the kids what we did, they lit up. They didn't realize you could make money drawing or making clothes. They assumed those careers were for "rich kids" or "white people" until people who looked and talked like them said it was possible. We just have to go out there. Every designer should volunteer.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What are you working on right now,
+    either for work or for yourself?
+  answer: |
+    Collaborate with your peers. Challenge everything and everyone. Break the rules. Listen to your gut. You can't bring your whole squad with you on the journey, and it sucks leaving people behind, but you have to forge forward. Give back. Be a voice. Be a "positive social contagion."
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://0g15mat63mq1uc8d
+
+----
+
+Selected-works:
+
+- file://3yjta4dyorcjmwhb
+- file://zpgmxnwxdpod9t3c
+
+----
+
+Job-title: Sr Mobile UX Designer, HCA IT&amp;S
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: kzyruzk9zfpnfnvg

@@ -1,0 +1,44 @@
+Title: Timothy Bardlavens
+
+----
+
+Day: 7
+
+----
+
+Job-title: Designer, Microsoft
+
+----
+
+Tags: User Expereince Designer
+
+----
+
+Twitter: https://twitter.com/iThink_iDesign
+
+----
+
+Role: User Expereince Designer
+
+----
+
+Cover:
+
+timothy-bardlavens-7.png 
+Cover: tim.png
+
+----
+
+Text: 
+
+----
+
+Intro: 
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: 7mfrxo6kcequbnte
