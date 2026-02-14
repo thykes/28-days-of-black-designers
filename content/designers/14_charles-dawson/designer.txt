@@ -1,0 +1,137 @@
+Title: Charles Dawson
+
+----
+
+Day: 14
+
+----
+
+Role: 1889 - 1981
+
+----
+
+Autopublish: 
+
+----
+
+Autounpublish: 
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: 
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Designer
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+Before the neon lights of Chicago’s "Black Metropolis" or the high-stakes world of New York’s Art Students League, there was the humid, salt-aired quiet of Brunswick, Georgia. Born in 1889 to middle-class parents who prioritized dignity over comfort, Charles Clarence Dawson grew up in a household where "uplift" wasn't just a concept—it was a survival strategy.
+
+His father, a hardworking man of the Atlantic coast, instilled in Charles a rigorous work ethic that would later define his "tireless" reputation. But it was the segregated landscape of the South that provided his first real education in visual semiotics. In a world where Black people were often depicted in popular media as caricatures, the young Dawson saw something else: the quiet elegance of his neighbors, the architectural precision of the local churches, and the burgeoning ambition of a generation born after Emancipation.
+
+Dawson’s formal journey began at the feet of a giant. At the Tuskegee Institute, under the watchful eye of Booker T. Washington, he didn't just learn to draw; he learned to build. Studying drafting with the pioneering architect Walter Bailey, Dawson began to view art not as a flight of fancy, but as a blueprint for a new Black identity.
+
+It was this foundation—part Southern grit, part Tuskegee discipline—that gave a nineteen-year-old Dawson the audacity to board a train for New York City in 1907. He arrived with little more than a portfolio and the unshakable belief that he belonged in the same rooms as the masters. When he walked through the doors of the Art Students League as the first African American ever admitted, he wasn't just seeking a degree; he was carrying the aspirations of a town in Georgia that the rest of the art world had forgotten.
+
+----
+
+Interview:
+
+- 
+  type: qa
+  question: Introduction
+  answer: |
+    In the smoky, bustling jazz clubs of the 1920s South Side, or the quiet domesticity of a Bronzeville apartment, the image of the "New Negro" was being meticulously drafted—not just by poets like Langston Hughes, but by the steady, ink-stained hand of Charles Clarence Dawson.
+    
+    While his contemporaries in the Harlem Renaissance were capturing the Black experience on canvas and in verse, Dawson was doing something arguably more radical: he was designing it for the masses. From the labels on "Lucky Brown" pomade to the sweeping murals of the World’s Fair, Dawson spent a lifetime illustrating a world where Blackness was synonymous with dignity, beauty, and progress.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: A Southerner in the ‘History Vault’
+  answer: |
+    Born in 1889 in the coastal town of Brunswick, Georgia, Dawson’s journey was the Great Migration personified. He began his education at Booker T. Washington’s Tuskegee Institute, studying drafting under the pioneering Black architect Walter Bailey. But the North beckoned. In 1907, Dawson became the first African American admitted to the Art Students League in New York, only to find that "integrated" did not mean "equal." Facing a wall of racial hostility, he pivoted to the Art Institute of Chicago in 1912, where he famously noted the environment was "entirely free of bias."
+    
+    To pay his way, Dawson lived the classic Chicago hustle: working as a Pullman porter on the rails and a waiter at the elite Cliff Dwellers Club. It was there, while serving soup to the city’s white intelligentsia, that he watched the legendary Black painter Henry Ossawa Tanner be treated as an honored guest—a moment that solidified Dawson’s belief that art could be a passport past the color line.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: The Commercial Combatant
+  answer: |
+    Dawson’s career was interrupted by the Great War, where he served as a lieutenant in the 365th Infantry—the famed "Buffalo Soldiers." He returned to a Chicago scarred by the 1919 race riots, but instead of retreating, he leaned into the burgeoning Black economy.
+    
+    As a freelancer, Dawson became the visual architect for Black titans of industry like Anthony Overton and Jesse Binga. His most prolific—and complicated—partnership was with Valmor Products. The company’s owner, Morton Neumann, recognized Dawson’s brilliance but refused to let him sign his work. For years, Dawson’s elegant, Art Deco-inspired illustrations of Black men and women adorned thousands of vanity tables, yet his name remained unknown to the customers who admired his "pulp-romance" style.
+    
+    I wanted to paint as Millet did of the French peasants," Dawson once told an interviewer, "to mirror the everyday life of my people.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: The ABCs of Resistance
+  answer: |
+    In 1933, amidst the depths of the Depression, Dawson took his legacy into his own hands. He self-published ABCs of Great Negroes, a children's book featuring 26 bold, linoleum-cut portraits of figures ranging from Frederick Douglass to Egyptian royalty. It was a pedagogical act of defiance, designed to give Black children a history that the schoolbooks of the era had erased.
+    
+    That same year, he broke another barrier as the only Black artist with a major role in the "Century of Progress" World’s Fair. His mural for the National Urban League, The Exodus, depicted the Great Migration not as a flight of refugees, but as a heroic march toward a new destiny.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: A Quiet Retirement
+  answer: |
+    Dawson eventually returned to his roots, serving as the curator of the George Washington Carver Museum at Tuskegee from 1944 to 1951. He spent his final decades in the artist colony of New Hope, Pennsylvania, joining the Quaker faith and living a quiet, scholarly life until his death in 1981 at the age of 91.
+    
+    Today, his papers and original dioramas reside in the DuSable Museum of African American History. Long dismissed as "commercial work," Dawson’s designs are now being re-evaluated by historians as essential artifacts of Black identity. He didn't just design advertisements; he designed the visual language of a people's aspiration.
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://wkch24wrflrbmpzb
+
+----
+
+Selected-works:
+
+- file://2jn2jbrr5sgyi7fv
+- file://5eknydlhomi2x6px
+- file://uqust1i6wkuj5njc
+
+----
+
+Job-title: 1889 - 1981
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: gfglkpl2hpxvqv65
