@@ -1,0 +1,219 @@
+Title: Kaila Pettis
+
+----
+
+Day: 15
+
+----
+
+Role: Graphic Designer • Illustrator
+
+----
+
+Autopublish: 
+
+----
+
+Autounpublish: 
+
+----
+
+Location: Rutgers University Athletics
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: https://twitter.com/KPology1
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Graphic Designer • Illustrator
+
+----
+
+Intro:
+
+I grew up enamored with creating things. I've always wanted to be an artist or engineer, and now I'm a designer. So, a solid percentage of my soul is still intact. Sketching Pokemon in my youth transitioned into scribbling friends' names onto trapper keepers during lectures, then into 3D modeling and Photoshop in my young-adulthood.
+
+Now I'm a woman with the Creative Cloud. Which, doesn't exactly make me unique, but provides me with an arsenal of tools to create, collaborate and ideate. Joking aside, I love what I do. I think one of the coolest feelings is being able to do what you love, professionally.
+
+----
+
+Text:
+
+I grew up enamored with creating things. I've always wanted to be an artist or engineer, and now I'm a designer. So, a solid percentage of my soul is still intact. Sketching Pokémon in my youth transitioned into scribbling friends' names onto Trapper Keepers during lectures, then into 3D modeling and Photoshop in my young adulthood.   
+
+Now I'm a woman with the Creative Cloud. Which doesn't exactly make me unique, but it provides me with an arsenal of tools to create, collaborate, and ideate. Joking aside, I love what I do.
+
+----
+
+Interview:
+
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    I think one of the coolest feelings is
+    being able to do what you love,
+    professionally.
+  citation: ""
+- 
+  type: qa
+  question: Growing Up in Chicago
+  answer: |
+    I was born and raised as an only child in Chicago, Illinois. To give you an idea, my mom and I were the only two in my family to graduate from college, so I never really had a passion to be anything like a doctor or lawyer.
+    
+    I was the only girl who lived on my block, so naturally hanging with the boys became an everyday thing. All of my friends were heavily into sports, and after my mom got over the fact that I was a "girl," she allowed me to play. I ended up being the first female to play baseball for Jackie Robinson West in Chicago. I went on to play sports throughout my entire life, which is what drives my passion for primarily working in athletics now. An ACL injury in college put a halt to my career and caused me to focus more on my education.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How did you first get interested in
+    design?
+  answer: |
+    Growing up, my mom had to give me a pen and paper to keep me quiet in church. I still have a lot of those drawings. They're terrible, but then again I was, like, 4 or 5 years old. From then on, I filled sketchbooks with drawings up until high school.
+    
+    I was always a math whiz, so everyone rooted for me to be an engineer, not an artist. Still undecided, I went to college undeclared and took classes in engineering, architecture, and life drawing as an elective. I came across a study called "Industrial Design," which basically was a cross between design and engineering.
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: "My love of sports still haunted me, and I found myself creating random graphics for athletes and their achievements. At that point, I decided that I wanted to become a sports designer. I quit my job, and haven't looked back since."
+  citation: ""
+- 
+  type: qa
+  question: "Tell me about the work you've done?"
+  answer: |
+    I've done work in a variety of fields. I actually started as a videographer shooting music videos for local artists in Chicago. That's initially how I began to build my following. A few of them went on to be big names in the industry today—I think Chance The Rapper being the biggest.  
+    
+    As far as design work, I started as an industrial designer in the point-of-purchase industry. If you go to Best Buy and walk around, you'll notice most products have a display that you interact with (pressing buttons, lifting, etc.). Those displays are some of the things I had the opportunity to design. After leaving industrial design, I took a job at Washington University Athletics as a Graphic Designer. One year later, I am now at Rutgers.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What have been your biggest struggles in
+    your career?
+  answer: >
+    The biggest struggle for me has
+    definitely been the business side of
+    things. Being a freelancer was a totally
+    different ball game for me—keeping
+    track of jobs and reaching out to
+    prospective clients.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What has your experience been as a
+    person of color in the design industry?
+  answer: "It has honestly given me a different perspective on things. I have always been the only female AND person of color in my classroom and office, so I'm now comfortable in any situation."
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: >
+    However, it always feels great to see
+    another person who looks like you in the
+    field; you can relate to each other.
+  citation: ""
+- 
+  type: qa
+  question: What are your biggest motivators?
+  answer: >
+    My biggest motivator is seeing how my
+    designs impact others. Creating
+    something that is just bigger than
+    myself and watching the impact it has is
+    so rewarding.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What do you love most about working in
+    design?
+  answer: >
+    Creating in the sports industry does not
+    feel like work to me. I love design. I
+    love sports. I love what I do.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    What would you like to see changed about
+    the design field?
+  answer: "I would love to see people's perspective change about design. I want them to understand the value and how it can benefit them, and to realize that everything they touch was designed by someone."
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    How can design be more accommodating to
+    underrepresented populations?
+  answer: ""
+  quote_text: ""
+  citation: ""
+- 
+  type: quote
+  question: ""
+  answer: ""
+  quote_text: "I think you have to expose them to it. I'm big on realizing that design works in every language; it's universal. As designers, we have the ability to communicate in images where words fail to transmit messages."
+  citation: ""
+- 
+  type: qa
+  question: >
+    What advice would you give to folks from
+    similar backgrounds?
+  answer: "Make connections. Push your work out on social media and get as many eyes on it as you can. Take criticism and learn to grow from it. Word of mouth is very powerful; don't underestimate it."
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://p6aj7tbvpafq0aje
+
+----
+
+Selected-works:
+
+- file://ikegrkvoynllq9i2
+- file://hpw4s2uldnj2kjtk
+- file://nfgvodbnswfec6xw
+- file://qg6bc8jlsrxvlbjt
+- file://758kerpi8hsdrbe0
+
+----
+
+Job-title: Graphic Designer, Rutgers University Athletics
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: jdkj9qz6kpdqoiwz
