@@ -1,0 +1,135 @@
+Title: Dorothy Hayes
+
+----
+
+Day: 18
+
+----
+
+Role: 1935-2015
+
+----
+
+Autopublish: 
+
+----
+
+Autounpublish: 
+
+----
+
+Location: 
+
+----
+
+Website: 
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: 
+
+----
+
+Instagram: 
+
+----
+
+Bluesky: 
+
+----
+
+Tags: Graphic Designer
+
+----
+
+Intro:
+
+Born in 1935 in Mobile, Alabama, Dorothy Hayes grew up in the heart of the Jim Crow South. Despite the limited professional horizons for Black women at the time, she set her sights on graphic design while still in high school. In 1958, she made the bold move to New York City, a mecca for advertising that was notoriously unwelcoming to people of color.
+
+Dorothy was a realist. She knew that to survive in New York, she had to be "ultra-professional." She enrolled at the prestigious Cooper Union, graduating in 1967. During her time there, she refined a style that was clean, corporate, and undeniably sophisticated—a visual language that commanded respect before she even spoke a word.
+
+----
+
+Text:
+
+Born in 1935 in Mobile, Alabama, Dorothy Hayes grew up in the heart of the Jim Crow South. Despite the limited professional horizons for Black women at the time, she set her sights on graphic design while still in high school. In 1958, she made the bold move to New York City, a mecca for advertising that was notoriously unwelcoming to people of color.
+
+Dorothy was a realist. She knew that to survive in New York, she had to be "ultra-professional." She enrolled at the prestigious Cooper Union, graduating in 1967. During her time there, she refined a style that was clean, corporate, and undeniably sophisticated—a visual language that commanded respect before she even spoke a word.
+
+----
+
+Interview:
+
+- 
+  type: qa
+  question: The Professional Wall
+  answer: |
+    When Dorothy first arrived in Manhattan, the isolation was profound. She famously recounted her struggle to find a community:
+    
+    **"When I came to New York, I couldn’t find any Blacks in the commercial art field. The ones I did encounter wouldn't give me any direction. Nobody wanted to take the time to show or tell me anything."**
+    
+    This cold reception from the few Black designers who had "made it" didn't embitter her; it sparked a vow. She promised that if she ever found success, she would never turn her back on a young artist seeking advice. She viewed professional gatekeeping as a barrier to the entire race's progress.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: >
+    "Dorothy’s Door" and the Corporate
+    World
+  answer: |
+    By the late 1960s, Dorothy had broken through. She founded Dorothy’s Door, a commercial art and design studio. In an industry where Black women were often relegated to "office wife" roles or secretarial work, Dorothy was pitching and winning contracts with global giants. Her client list included:
+    
+    CBS Radio
+    AT&T
+    The Girl Scouts of the USA
+    Scholastic Magazines
+    
+    She spoke candidly about the "man thing" she faced in boardrooms, noting that while men initially expected her to be subservient, her sheer technical competence forced them to acknowledge her as a peer. "They know you’ve paid your dues just like they had to," she once remarked.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: '1970: A Landmark Exhibition'
+  answer: |
+    Dorothy’s most enduring contribution to design history came in 1970. Realizing that Black designers were being ignored by major galleries and trade journals, she organized "Black Artists in Graphic Communication." This was a revolutionary exhibition that profiled 49 young Black designers, including pioneers like Dorothy Akubuiro, Josephine Jones, and Diane Dillon. It wasn't just an art show; it was a political statement. It proved to the "Big Six" advertising agencies that Black talent was not only present but was currently shaping the visual culture of America.
+  quote_text: ""
+  citation: ""
+- 
+  type: qa
+  question: Later Years and Legacy
+  answer: |
+    While the trail of her commercial studio "Dorothy’s Door" became harder to follow in the late 1980s, Dorothy Hayes never stopped being a mentor. She spent years as an educator, serving as a professor at the New York City College of Technology (City Tech). There, she fulfilled her lifelong vow, teaching thousands of students—many of them first-generation immigrants and people of color—the technical rigors of the craft.
+    
+    Dorothy Hayes passed away in 2015, but her influence is felt every time a woman of color leads a design pitch. She didn't just open a door; she kept it propped open for everyone behind her.
+  quote_text: ""
+  citation: ""
+
+----
+
+Cover: - file://4yhk6jt7alengax2
+
+----
+
+Selected-works:
+
+- file://ztdjs5whmf9t0dka
+- file://9nkqvvmche9wmmz7
+- file://gvpri6ec8vtrbaph
+- file://aohfqemp1wdviu0v
+- file://kadtqf95hkjhs1oo
+
+----
+
+Job-title: 1935-2015
+
+----
+
+Interview-intro: 
+
+----
+
+Uuid: clavjxtjngftgbmc
